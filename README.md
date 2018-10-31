@@ -12,6 +12,7 @@ Escolha a pasta do capítulo que você quer traduzir, abra o arquivo lang_en.jso
 ![Tutorial](https://i.imgur.com/xf67rDv.png)
 
 Vamos verificar se a tradução está correta, isso pode demorar um pouco, você será banido desse repositório se não editar sériamente.
+#
 **Cuidado para não apagar os "Indicadores" do jogo! as traduções não podem funcionar sem eles"**
 
 ![Aviso](https://i.imgur.com/CUZkfv8.png)
