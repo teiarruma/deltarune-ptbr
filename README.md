@@ -1,4 +1,4 @@
-![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) ## **LEIA ISSO, É IMPORTANTE!**
+![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **LEIA ISSO, É IMPORTANTE!**
 
 # Página de tradução
 Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo oficial criado pelo Toby fox, para ajudar a traduzir o jogo,
