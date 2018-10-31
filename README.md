@@ -1,4 +1,4 @@
-**LEIA ISSO, É IMPORTANTE!**
+![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) ## **LEIA ISSO, É IMPORTANTE!**
 
 # Página de tradução
 Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo oficial criado pelo Toby fox, para ajudar a traduzir o jogo,
@@ -13,6 +13,6 @@ Escolha a pasta do capítulo que você quer traduzir, abra o arquivo lang_en.jso
 
 Vamos verificar se a tradução está correta, isso pode demorar um pouco, você será banido desse repositório se não editar sériamente.
 #
-**Cuidado para não apagar os "Indicadores" do jogo! as traduções não podem funcionar sem eles"**
+**Cuidado para não apagar os "Indicadores" do jogo! as traduções não podem funcionar sem eles**
 
 ![Aviso](https://i.imgur.com/CUZkfv8.png)
