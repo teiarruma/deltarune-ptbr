@@ -5,6 +5,8 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 
 ![Logo](https://i.imgur.com/Y7ym2mk.png)
 
+![Discord](https://static.filehorse.com/icons/messaging-and-chat/discord-icon-32.png) [Entre no Discord da tradução do deltarune](https://discord.gg/MBXUw8z)
+
 # Como ajudar a traduzir?
 Escolha a pasta do capítulo que você quer traduzir, abra o arquivo lang_en.json e clique no lápis para editar! **você precisa ter uma conta no Github para editar,** crie ela [aqui](https://github.com/join)
 
