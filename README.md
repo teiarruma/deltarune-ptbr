@@ -15,3 +15,4 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 **Cuidado para não apagar os "Indicadores" do jogo! as traduções não podem funcionar sem eles**
 
 ![Aviso](https://i.imgur.com/CUZkfv8.png)
+
