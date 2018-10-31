@@ -1,3 +1,5 @@
+**LEIA ISSO, É IMPORTANTE!**
+
 # Página de tradução
 Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo oficial criado pelo Toby fox, para ajudar a traduzir o jogo,
 Você pode ajudar quando quiser! basta baixar o arquivo JSON nesse repositório e
