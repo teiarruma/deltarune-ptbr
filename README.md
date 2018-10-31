@@ -10,6 +10,7 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 # Aonde baixar?
 
 Por enquanto, o a tradução está incompleta, recomendado apenas para quem quer ajudar à traduzir
+
 [Baixe ela aqui](https://github.com/Gamepreie/deltarune-traducao/archive/master.zip) (não recomendado no momento)
 
 # Como ajudar a traduzir?
