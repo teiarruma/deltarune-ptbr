@@ -18,10 +18,16 @@ Escolha a pasta do capítulo que você quer traduzir, abra o arquivo lang_en.jso
 
 Vamos verificar se a tradução está correta, isso pode demorar um pouco, você será banido desse repositório se não editar sériamente.
 
-#Avisos importantes
+# Avisos importantes
 
 ![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **Cuidado para não apagar os "Indicadores" do jogo! as traduções não podem funcionar sem eles**
 
 ![Aviso](https://i.imgur.com/CUZkfv8.png)
 
 ![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **Cuidado! acentos não funcionam na fonte do Deltarune!**
+
+# Créditos
+
+**Gamepreie** - Dono dessa git e tradutor, corrige erros da tradução
+**Tio refrigerante** - Tradutor, está traduzindo a maior parte do jogo
+**MRPowerGamerBR** - Tradutor e contribuidor
