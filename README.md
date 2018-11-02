@@ -9,9 +9,7 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 
 # Aonde baixar?
 
-Por enquanto, o a tradução está incompleta, recomendado apenas para quem quer ajudar à traduzir
-
-[Baixe ela aqui](https://github.com/Gamepreie/deltarune-traducao/archive/master.zip) (não recomendado no momento)
+![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **Por enquanto, o a tradução está incompleta, recomendado apenas para quem quer ajudar à traduzir** [Baixe ela aqui](https://github.com/Gamepreie/deltarune-traducao/archive/master.zip)
 
 # Como ajudar a traduzir?
 Escolha a pasta do capítulo que você quer traduzir, abra o arquivo lang_en.json e clique no lápis para editar! **você precisa ter uma conta no Github para editar,** crie ela [aqui](https://github.com/join)
