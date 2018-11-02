@@ -29,5 +29,9 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 # Créditos
 
 **Gamepreie** - Dono dessa git e tradutor, corrige erros da tradução
+
 **Tio refrigerante** - Tradutor, está traduzindo a maior parte do jogo
+
 **MRPowerGamerBR** - Tradutor e contribuidor
+
+**Eric Holmes** - Criador original do servidor do Discord da tradução
