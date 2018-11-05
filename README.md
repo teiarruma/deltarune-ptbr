@@ -1,4 +1,7 @@
 # Página de tradução
+
+**Agora acentos são permitidos!**
+
 Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo oficial criado pelo Toby fox, para ajudar a traduzir o jogo para o **Português Brasileiro**!
 
 ![Logo](https://i.imgur.com/Y7ym2mk.png)
@@ -24,8 +27,6 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 
 ![Aviso](https://i.imgur.com/CUZkfv8.png)
 
-![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **Cuidado! acentos não funcionam na fonte do Deltarune!**
-
 # Créditos
 
 **Gamepreie** - Dono dessa git e tradutor, corrige erros da tradução
@@ -35,3 +36,5 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 **MRPowerGamerBR** - Tradutor e contribuidor
 
 **Eric Holmes** - Criador original do servidor do Discord da tradução
+
+**BMatSantos** - Responsável por possibilitar acentos no jogo.
