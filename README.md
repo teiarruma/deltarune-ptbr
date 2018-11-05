@@ -12,7 +12,7 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 
 ![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **Por enquanto, o a tradução está incompleta, recomendado apenas para quem quer ajudar à traduzir** [Baixe ela aqui](https://github.com/Gamepreie/deltarune-traducao/archive/master.zip) (ou [veja a página do arquivo de tradução](https://raw.githubusercontent.com/Gamepreie/deltarune-traducao/master/capitulo%201/lang_en.json))
 
-**Progresso: 1185/6222 linhas traduzidas** (não é atualizado sempre.)
+**Progresso: 3529/6222 linhas traduzidas** (não é atualizado sempre.)
 
 # Como ajudar a traduzir?
 Escolha a pasta do capítulo que você quer traduzir, abra o arquivo lang_en.json e clique no lápis para editar! **você precisa ter uma conta no Github para editar,** crie ela [aqui](https://github.com/join)
