@@ -39,4 +39,8 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 
 **BMatSantos** - Responsável por possibilitar acentos no jogo.
 
-e mais outros tradutores!
+**Marcelo** - Tradutor e Ajudante
+
+**KnG** - Revisão da tradução
+
+e mais outros tradutores que estão ajudando!
