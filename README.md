@@ -1,5 +1,7 @@
 # Página de tradução
 
+## TRADUÇÃO COMPLETA! VEJA COMO INSTALAR ABAIXO! (REVISÃO DOS TEXTOS EM ANDAMENTO!)
+
 **Agora acentos são permitidos!**
 
 Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo oficial criado pelo Toby fox, para ajudar a traduzir o jogo para o **Português Brasileiro**!
