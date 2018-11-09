@@ -10,7 +10,7 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 
 # Aonde baixar?
 
-![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **A tradução está completa, mas está sendo revisada, para ver se há erros** 
+![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **A tradução está completa, mas está sendo revisada, para ver se há erros!** 
 
 
 Baixe a tradução apertando no botão verde que está no topo da página e depois clique em Download Zip! substitua o arquivo lang_en.json pelo arquivo de tradução **Não se esqueca de substituir o data.win também!** 
