@@ -35,23 +35,23 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 
 # Créditos
 
-**Gamepreie** - Dono dessa git e tradutor, corrige erros da tradução
+**Gamepreie** - Dono dessa git / Tradutor / Correção de erros
 
-**Tio refrigerante** - Tradutor, está traduzindo a maior parte do jogo
+**Tio refrigerante** - Tradutor (Traduziu uma parte extensa +2000Linhas)
 
-**MRPowerGamerBR** - Tradutor e contribuidor
+**MRPowerGamerBR** - Tradutor / Contribuidor
 
-**Eric Holmes** - Criador original do servidor do Discord da tradução
+**BMatSantos** - Sprites / Correção data.win
 
-**BMatSantos** - Responsável por possibilitar acentos no jogo.
+**Eric Holmes** - Criador do Discord
 
-**Marcelo** - Tradutor e Ajudante
+**Marcelo** - Tradutor / Ajudante 
 
-**KnG** - Revisão da tradução
+**KnG** - Tradutor / Revisor Geral
 
-**Lavember** - Tradução
+**Lavember** - Tradutor
 
-**Detoria** - Tradução
+**Detoria** - Tradutor
 
 
 
