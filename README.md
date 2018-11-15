@@ -41,7 +41,7 @@ Vamos verificar se a tradução está correta, isso pode demorar um pouco, você
 
 **MRPowerGamerBR** - Tradutor / Contribuidor
 
-**BMatSantos** - Sprites / Correção data.win
+**BMatSantos** - Acentos / Sprites / Revisor
 
 **Eric Holmes** - Criador do Discord
 
