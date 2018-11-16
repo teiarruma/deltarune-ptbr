@@ -18,7 +18,7 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 Baixe a tradução apertando no botão verde que está no topo da página e depois clique em Download Zip! substitua o arquivo lang_en.json pelo arquivo de tradução **Não se esqueca de substituir o data.win também!** 
 ![tut](https://i.imgur.com/pW6Pg6l.png)
 
-**Progresso: ~6001/6222 linhas traduzidas** (não é atualizado sempre.)
+**Progresso: ~6222/6222 linhas traduzidas** (revisão em andamento.)
 
 # Como ajudar a traduzir?
 Escolha a pasta do capítulo que você quer traduzir, abra o arquivo lang_en.json e clique no lápis para editar! **você precisa ter uma conta no Github para editar,** crie ela [aqui](https://github.com/join)
