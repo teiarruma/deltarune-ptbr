@@ -16,13 +16,13 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 Baixe a tradução apertando no botão verde que está no topo da página e depois clique em Download Zip! substitua o arquivo lang_en.json pelo arquivo de tradução **Não se esqueca de substituir o data.win também!** 
 ![tut](https://i.imgur.com/pW6Pg6l.png)
 
-Ainda precisa de ajuda para poder baixar nossa tradução? Temos um tutorial no nosso servidor do Discord feito para você!
+Quer entender melhor como instalar nossa tradução? Siga o tutorial disponível no final dessa página.
 
 
 **Progresso: ~6222/6222 linhas traduzidas** (revisão em andamento.)
 
-# Avisos importantes
-
+# Avisos
+Tem alguma sugestão para a nossa tradução? Entre no Discord e converse com o pessoal responsável pela tradução.
 
 # Créditos
 
@@ -34,7 +34,7 @@ Ainda precisa de ajuda para poder baixar nossa tradução? Temos um tutorial no 
 
 **Detoria** - Tradutor/ Revisor Avançado
 
-**Marcelo99** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças
+**Marcel099** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças
 
 **KnG** - Tradutor / Revisor
 
@@ -47,3 +47,31 @@ Ainda precisa de ajuda para poder baixar nossa tradução? Temos um tutorial no 
 **MRPowerGamerBR** - Correção de Erros / Colaborador
 
 **Eric Holmes** - Criador do Server do Discord
+
+# Tutorial de Instalação
+
+Quer jogar DeltaRune em pt-br e não sabe como instalar nossa tradução sozinho? Basta seguir os seguintes passos:
+
+![tuto1](https://i.imgur.com/NgbHreJl.png)
+
+![tuto2](https://i.imgur.com/fm6OqrAl.png)
+
+![tuto3](https://i.imgur.com/vsc5zsul.png)
+
+![tuto4](https://i.imgur.com/3hRbNLTl.png)
+
+![tuto5](https://i.imgur.com/Q3uDAvAl.png)
+
+![tuto6](https://i.imgur.com/fm6OqrAl.png)
+
+![tuto7](https://i.imgur.com/ZTfS55zl.png)
+
+![Imgur](https://i.imgur.com/9VYOfTOl.png)
+
+Pronto! Agora você já pode jogar nossa tradução!
+
+
+Ainda precisa de ajuda para poder baixar nossa tradução? Entre em nosso servidor do Discord usando o link que está no topo dessa página e converse sobre quais são suas dificuldades de instalação!
+
+
+Encontrou algum problema ao jogar com nossa tradução? Mande printscreens deles em nosso server do Discord! Atenderemos assim que possível!
