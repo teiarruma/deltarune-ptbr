@@ -21,33 +21,6 @@ Quer entender melhor como instalar nossa tradução? Siga o tutorial disponível
 
 **Progresso: ~6222/6222 linhas traduzidas** (revisão em andamento.)
 
-# Avisos
-Tem alguma sugestão para a nossa tradução? Entre no Discord e converse com o pessoal responsável pela tradução.
-
-# Créditos
-
-**Gamepreie** - Dono dessa git / Tradutor Geral / Revisor de mudanças / Colaborador
-
-**Tio refrigerante** - Tradutor Geral
-
-**BMatSantos** - Acentos / Sprites / Revisor Avançado
-
-**Detoria** - Tradutor/ Revisor Avançado
-
-**Marcel099** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças
-
-**KnG** - Tradutor / Revisor
-
-**CassadorEterno** - Tradutor / Sprites / Porta-Voz
-
-**Darko** - Rastreador de erros / Revisor
-
-**Lavember** - Tradutor
-
-**MRPowerGamerBR** - Correção de Erros / Colaborador
-
-**Eric Holmes** - Criador do Server do Discord
-
 # Tutorial de Instalação
 
 Quer jogar DeltaRune em pt-br e não sabe como instalar nossa tradução sozinho? Basta seguir os seguintes passos:
@@ -75,3 +48,27 @@ Ainda precisa de ajuda para poder baixar nossa tradução? Entre em nosso servid
 
 
 Encontrou algum problema ao jogar com nossa tradução? Mande printscreens deles em nosso server do Discord! Atenderemos assim que possível!
+
+# Créditos
+
+**Gamepreie** - Dono dessa git / Tradutor Geral / Revisor de mudanças / Colaborador
+
+**Tio refrigerante** - Tradutor Geral
+
+**BMatSantos** - Acentos / Sprites / Revisor Avançado
+
+**Detoria** - Tradutor/ Revisor Avançado
+
+**Marcel099** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças
+
+**KnG** - Tradutor / Revisor
+
+**CassadorEterno** - Tradutor / Sprites / Porta-Voz
+
+**Darko** - Rastreador de erros / Revisor
+
+**Lavember** - Tradutor
+
+**MRPowerGamerBR** - Correção de Erros / Colaborador
+
+**Eric Holmes** - Criador do Server do Discord
