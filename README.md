@@ -2,8 +2,6 @@
 
 ## TRADUÇÃO COMPLETA! VEJA COMO INSTALAR ABAIXO! (REVISÃO DOS TEXTOS EM ANDAMENTO!)
 
-**Agora acentos são permitidos!**
-
 Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo oficial criado pelo Toby fox, para ajudar a traduzir o jogo para o **Português Brasileiro**!
 
 ![Logo](https://i.imgur.com/Y7ym2mk.png)
@@ -18,41 +16,34 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 Baixe a tradução apertando no botão verde que está no topo da página e depois clique em Download Zip! substitua o arquivo lang_en.json pelo arquivo de tradução **Não se esqueca de substituir o data.win também!** 
 ![tut](https://i.imgur.com/pW6Pg6l.png)
 
+Ainda precisa de ajuda para poder baixar nossa tradução? Temos um tutorial no nosso servidor do Discord feito para você!
+
+
 **Progresso: ~6222/6222 linhas traduzidas** (revisão em andamento.)
-
-# Como ajudar a traduzir?
-Escolha a pasta do capítulo que você quer traduzir, abra o arquivo lang_en.json e clique no lápis para editar! **você precisa ter uma conta no Github para editar,** crie ela [aqui](https://github.com/join)
-
-![Tutorial](https://i.imgur.com/xf67rDv.png)
-
-Vamos verificar se a tradução está correta, isso pode demorar um pouco, você será banido desse repositório se não editar sériamente.
 
 # Avisos importantes
 
-![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **Cuidado para não apagar os "Indicadores" do jogo! as traduções não podem funcionar sem eles**
-
-![Aviso](https://i.imgur.com/CUZkfv8.png)
 
 # Créditos
 
-**Gamepreie** - Dono dessa git / Tradutor / Correção de erros
+**Gamepreie** - Dono dessa git / Tradutor Geral / Revisor de mudanças / Colaborador
 
-**Tio refrigerante** - Tradutor (Traduziu uma parte extensa +2000Linhas)
+**Tio refrigerante** - Tradutor Geral
 
-**MRPowerGamerBR** - Tradutor / Contribuidor
+**BMatSantos** - Acentos / Sprites / Revisor Avançado
 
-**BMatSantos** - Acentos / Sprites / Revisor
+**Detoria** - Tradutor/ Revisor Avançado
 
-**Eric Holmes** - Criador do Discord
+**Marcelo99** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças
 
-**Marcelo** - Tradutor / Ajudante 
+**KnG** - Tradutor / Revisor
 
-**KnG** - Tradutor / Revisor Geral
+**CassadorEterno** - Tradutor / Sprites / Porta-Voz
+
+**Darko** - Rastreador de erros / Revisor
 
 **Lavember** - Tradutor
 
-**Detoria** - Tradutor
+**MRPowerGamerBR** - Correção de Erros / Colaborador
 
-
-
-e mais outros tradutores que estão ajudando!
+**Eric Holmes** - Criador do Server do Discord
