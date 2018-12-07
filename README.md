@@ -72,3 +72,9 @@ Encontrou algum problema ao jogar com nossa tradução? Mande printscreens deles
 **MRPowerGamerBR** - Correção de Erros / Colaborador
 
 **Eric Holmes** - Criador do Server do Discord
+
+### Com as Vozes de
+
+**Tanekoshima** - Jevil
+
+**???** -  ???
