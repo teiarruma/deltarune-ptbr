@@ -77,4 +77,5 @@ Encontrou algum problema ao jogar com nossa tradução? Mande printscreens deles
 
 **Tanekoshima** - Jevil
 
-**???** -  ???
+**Saerena** -  Vocais de "Não Esqueça (Don't Forget)"
+##### (Agradecimentos *Kyonamu* pela instrumental e mixagem)
