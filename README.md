@@ -4,14 +4,10 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 
 ![Logo](https://i.imgur.com/Y7ym2mk.png)
 
+
+![download](https://cafebrasil.azureedge.net/wp-content/uploads/arrow.png) [**Clique aqui para baixar!**](https://github.com/Gamepreie/deltarune-traducao/archive/master.zip) (Substitua o arquivo lang_en.json pelo arquivo de tradução **Não se esqueca de substituir o data.win também!** )
+
 ![Discord](https://static.filehorse.com/icons/messaging-and-chat/discord-icon-32.png) [Entre no Discord da tradução do deltarune](https://discord.gg/MBXUw8z)
-
-# Aonde baixar?
-
-![download](https://cafebrasil.azureedge.net/wp-content/uploads/arrow.png) [Clique aqui para baixar!](https://github.com/Gamepreie/deltarune-traducao/archive/master.zip)
-
-Substitua o arquivo lang_en.json pelo arquivo de tradução **Não se esqueca de substituir o data.win também!** 
-![tut](https://i.imgur.com/pW6Pg6l.png)
 
 # Tutorial de Instalação
 
