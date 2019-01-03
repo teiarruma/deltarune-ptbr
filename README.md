@@ -1,12 +1,11 @@
-# Página de tradução
-
-Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo oficial criado pelo Toby fox, para ajudar a traduzir o jogo para o **Português Brasileiro**!
+# Downloads
+Essa é a página da tradução do **DELTARUNE** feito pelo grupo **TEIARRUMA**, baixe a tradução abaixo!
 
 [![1](https://i.imgur.com/wDZD6FQ.png)](http://bit.ly/deltarunebr)
 [![2](https://i.imgur.com/fxEZskN.png)](http://bit.ly/deltatrad)
-[![3](https://i.imgur.com/T21xQAR.png)](https://discord.gg/MBXUw8z)]
+[![3](https://i.imgur.com/T21xQAR.png)](https://discord.gg/MBXUw8z)
 
-# Tutorial de Instalação
+# Tutorial
 
 Se você baixou apenas a versão, por favor, siga esses passos em ordem:
 
