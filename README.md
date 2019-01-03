@@ -1,7 +1,5 @@
 # Página de tradução
 
-## TRADUÇÃO COMPLETA! VEJA COMO INSTALAR ABAIXO! (REVISÃO DOS TEXTOS EM ANDAMENTO!)
-
 Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo oficial criado pelo Toby fox, para ajudar a traduzir o jogo para o **Português Brasileiro**!
 
 ![Logo](https://i.imgur.com/Y7ym2mk.png)
@@ -10,16 +8,10 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 
 # Aonde baixar?
 
-![Aviso](https://cdn1.iconfinder.com/data/icons/CrystalClear/32x32/actions/messagebox_warning.png) **A tradução está completa, mas está sendo revisada, para ver se há erros!** 
+![download](https://cafebrasil.azureedge.net/wp-content/uploads/arrow.png) [Clique aqui para baixar!](https://github.com/Gamepreie/deltarune-traducao/archive/master.zip)
 
-
-Baixe a tradução apertando no botão verde que está no topo da página e depois clique em Download Zip! substitua o arquivo lang_en.json pelo arquivo de tradução **Não se esqueca de substituir o data.win também!** 
+Substitua o arquivo lang_en.json pelo arquivo de tradução **Não se esqueca de substituir o data.win também!** 
 ![tut](https://i.imgur.com/pW6Pg6l.png)
-
-Quer entender melhor como instalar nossa tradução? Siga o tutorial disponível no final dessa página.
-
-
-**Progresso: ~6222/6222 linhas traduzidas** (revisão em andamento.)
 
 # Tutorial de Instalação
 
