@@ -4,44 +4,27 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 
 ![Logo](https://i.imgur.com/Y7ym2mk.png)
 
+![outro download](https://i.imgur.com/wDZD6FQ.png)(http://bit.ly/deltarunebr)
+![download](https://i.imgur.com/fxEZskN.png)(http://bit.ly/deltatrad)
 
-![download](https://cafebrasil.azureedge.net/wp-content/uploads/arrow.png) [**Clique aqui para baixar!**](https://github.com/Gamepreie/deltarune-traducao/archive/master.zip)
-
-(Substitua o arquivo lang_en.json pelo arquivo de tradução **Não se esqueca de substituir o data.win também!** )
-
-![Discord](https://static.filehorse.com/icons/messaging-and-chat/discord-icon-32.png) [Entre no Discord da tradução do deltarune](https://discord.gg/MBXUw8z)
+![Discord](https://static.filehorse.com/icons/messaging-and-chat/discord-icon-32.png) [Entre no Discord da tradução!](https://discord.gg/MBXUw8z)
 
 # Tutorial de Instalação
 
-Quer jogar DeltaRune em pt-br e não sabe como instalar nossa tradução sozinho? Basta seguir os seguintes passos:
+Se você baixou apenas a versão, por favor, siga esses passos em ordem:
 
-![tuto1](https://i.imgur.com/NgbHreJl.png)
+- abra o zip e abra a pasta deltarune-traducao-master
+- abra a pasta *capítulo 1*
+- mova **lang_en.json** para a pasta **lang** do DELTARUNE
+- mova **dontforget.ogg** para a pasta **mus** do DELTARUNE
+- mova **data.win** para a pasta raíz do DELTARUNE
+- pronto, agora execute o jogo!
 
-![tuto2](https://i.imgur.com/fm6OqrAl.png)
-
-![tuto3](https://i.imgur.com/vsc5zsul.png)
-
-![tuto4](https://i.imgur.com/3hRbNLTl.png)
-
-![tuto5](https://i.imgur.com/Q3uDAvAl.png)
-
-![tuto6](https://i.imgur.com/fm6OqrAl.png)
-
-![tuto7](https://i.imgur.com/ZTfS55zl.png)
-
-![Imgur](https://i.imgur.com/9VYOfTOl.png)
-
-Pronto! Agora você já pode jogar nossa tradução!
-
-
-Ainda precisa de ajuda para poder baixar nossa tradução? Entre em nosso servidor do Discord usando o link que está no topo dessa página e converse sobre quais são suas dificuldades de instalação!
-
-
-Encontrou algum problema ao jogar com nossa tradução? Mande printscreens deles em nosso server do Discord! Atenderemos assim que possível!
+Ainda tem dúvidas ou achou algum erro? [Entre no Discord para ter suporte!](https://discord.gg/MBXUw8z)
 
 # Créditos
 
-**Gamepreie** - Dono dessa git / Tradutor Geral / Revisor de mudanças / Colaborador
+**Gomaproi** - Dono dessa git / Tradutor Geral / Revisor de mudanças / Colaborador
 
 **Tio refrigerante** - Tradutor Geral
 
