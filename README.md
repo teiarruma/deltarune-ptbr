@@ -1,13 +1,19 @@
 # Downloads
 Essa é a página da tradução do **DELTARUNE** feito pelo grupo **TEIARRUMA**, baixe a tradução abaixo!
 
+### Capítulo 1
+
 [![1](https://i.imgur.com/wDZD6FQ.png)](http://bit.ly/deltarunebr)
 [![2](https://i.imgur.com/fxEZskN.png)](http://bit.ly/deltatrad)
 [![3](https://i.imgur.com/T21xQAR.png)](https://discord.gg/MBXUw8z)
 
+### Capítulo 2
+
+[![4](https://i.imgur.com/hVJYnqL.png)](https://www.youtube.com/)
+
 # Tutorial
 
-Se você baixou apenas a versão, por favor, siga esses passos em ordem:
+Se você baixou apenas a tradução, por favor, siga esses passos em ordem:
 
 - abra o zip e abra a pasta *deltarune-traducao-master*
 - abra a pasta *capítulo 1*
