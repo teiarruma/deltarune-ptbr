@@ -5,7 +5,7 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 [![Apenas tradução](https://i.imgur.com/wDZD6FQ.png)](http://bit.ly/deltarunebr)
 [![Jogo e tradução](https://i.imgur.com/fxEZskN.png)](http://bit.ly/deltatrad)
 
-![Discord](https://static.filehorse.com/icons/messaging-and-chat/discord-icon-32.png) [Entre no Discord da tradução!](https://discord.gg/MBXUw8z)
+![Discord](https://static.filehorse.com/icons/messaging-and-chat/discord-icon-32.png) [**Entre no Discord da tradução para suporte!**](https://discord.gg/MBXUw8z)
 
 # Tutorial de Instalação
 
