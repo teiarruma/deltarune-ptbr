@@ -7,10 +7,6 @@ Essa é a página da tradução do **DELTARUNE** feito pelo grupo **TEIARRUMA**,
 [![2](https://i.imgur.com/fxEZskN.png)](http://bit.ly/deltatrad)
 [![3](https://i.imgur.com/T21xQAR.png)](https://discord.gg/MBXUw8z)
 
-### Capítulo 2
-
-[![4](https://i.imgur.com/hVJYnqL.png)](https://www.youtube.com/)
-
 # Tutorial
 
 Se você baixou apenas a tradução, por favor, siga esses passos em ordem:
