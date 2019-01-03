@@ -4,8 +4,8 @@ Essa é uma página não oficial do [Deltarune](http://deltarune.com/), um jogo 
 
 ![Logo](https://i.imgur.com/Y7ym2mk.png)
 
-![outro download](https://i.imgur.com/wDZD6FQ.png)(http://bit.ly/deltarunebr)
-![download](https://i.imgur.com/fxEZskN.png)(http://bit.ly/deltatrad)
+![[outro download](https://i.imgur.com/wDZD6FQ.png)](http://bit.ly/deltarunebr)
+![[download](https://i.imgur.com/fxEZskN.png)](http://bit.ly/deltatrad)
 
 ![Discord](https://static.filehorse.com/icons/messaging-and-chat/discord-icon-32.png) [Entre no Discord da tradução!](https://discord.gg/MBXUw8z)
 
