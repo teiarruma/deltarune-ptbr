@@ -1,5 +1,5 @@
 # Downloads
-Essa é a página da tradução do **DELTARUNE** feito pelo grupo **TEIARRUMA**, baixe a tradução abaixo!
+Essa é a página da tradução do **DELTARUNE** feito pelo grupo **TEIARRUMA**, veja e baixe a tradução abaixo!
 
 ### Capítulo 1
 
