@@ -22,7 +22,7 @@ Ainda tem dúvidas ou achou algum erro? [Entre no Discord para ter suporte!](htt
 
 # Créditos
 
-**Gomaproi** - Dono dessa git / Tradutor Geral / Revisor de mudanças / Colaborador
+**Gomaproi** - Tradutor Geral / Revisor de mudanças / Colaborador
 
 **Tio refrigerante** - Tradutor Geral
 
