@@ -1,22 +1,19 @@
+
 # Downloads
 Essa é a página da tradução do **DELTARUNE** feito pelo grupo **TEIARRUMA**, veja e baixe a tradução abaixo!
 
-### Capítulo 1
+### 🖥️ [Clique aqui para baixar a tradução](http://bit.ly/deltatrad)
+(ou baixe usando o botão óbvio e verde do github)
 
-[![1](https://i.imgur.com/wDZD6FQ.png)](http://bit.ly/deltarunebr)
-[![2](https://i.imgur.com/fxEZskN.png)](http://bit.ly/deltatrad)
 # Tutorial
+Para baixar a tradução, siga esses passos em ordem:
 
-Se você baixou apenas a tradução, por favor, siga esses passos em ordem:
-
-- abra o zip e abra a pasta *deltarune-traducao-master*
-- abra a pasta *capítulo 1*
-- mova **lang_en.json** para a pasta **lang** do DELTARUNE
-- mova **dontforget.ogg** para a pasta **mus** do DELTARUNE
-- mova **data.win** para a pasta raíz do DELTARUNE
-- pronto, agora execute o jogo!
-
-Ainda tem dúvidas ou achou algum erro? [Entre no Discord para ter suporte!](https://discord.gg/MBXUw8z)
+- [Tenha o DELTARUNE baixado](https://www.deltarune.com/)
+- Abra a pasta em que o DELTARUNE está
+- Abra o zip e abra a pasta *deltarune-traducao-master*
+- Abra a pasta *capítulo 1*
+- Mova todos os conteúdos da pasta da tradução para a pasta do DELTARUNE (apenas selecione todos os conteúdos da pasta e coloque eles na pasta do DELTARUNE)
+- Pronto, agora execute o jogo!
 
 # Créditos
 
