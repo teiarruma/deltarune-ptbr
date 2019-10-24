@@ -3,7 +3,7 @@
 Essa é a página da tradução do **DELTARUNE** feito pelo grupo **TEIARRUMA**, veja e baixe a tradução abaixo!
 
 ### 🖥️ [Clique aqui para baixar a tradução](http://bit.ly/deltatrad)
-(ou baixe usando o botão óbvio e verde do github)
+(ou baixe usando o botão verde e óbvio do github)
 
 # Tutorial
 Para baixar a tradução, siga esses passos em ordem:
