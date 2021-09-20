@@ -1,0 +1,583 @@
+[
+  "obj_krisroom_slash_Step_0_gml_321_0",
+  "Kris...? /%",
+
+  "obj_krisroom_slash_Step_0_gml_322_0",
+  "Kris, honey...&Are you awake...?^6 %%",
+
+  "obj_krisroom_slash_Step_0_gml_323_0",
+  "... w.... wait!^6 %%",
+
+  "obj_krisroom_slash_Step_0_gml_324_0",
+  "Is that a...^6 %%",
+
+  "obj_krisroom_slash_Step_0_gml_325_0",
+  "A knife!!?^6 %%",
+
+  "obj_krisroom_slash_Step_0_gml_353_0",
+  "NOOOOOOOO---!!! %%",
+
+  "obj_krisroom_slash_Step_0_gml_388_0",
+  "* Kris^1, did you eat all of the pie!?/%",
+
+  "obj_krisroom_slash_Step_0_gml_393_0",
+  "\\E3* It is YOUR knife in this empty tin, is it not!?/",
+
+  "obj_krisroom_slash_Step_0_gml_394_0",
+  "\\E8* Oh, Kris.../%",
+
+  "obj_krisroom_slash_Step_0_gml_399_0",
+  "\\E4* Am I going to have to lock the oven again?/%",
+
+  "obj_krisroom_slash_Step_0_gml_406_0",
+  "\\E1* Well^1, hurry out of bed^1. It is time for school./%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_35_0",
+  "* Well^1, shall we go?/%",
+
+  "obj_classscene_slash_Step_0_gml_493_0",
+  "\\E0* Kris^1, there you are!/",
+
+  "obj_classscene_slash_Step_0_gml_494_0",
+  "\\EA* (Even Susie showed up before you^1, eheh...)/%",
+
+  "obj_classscene_slash_Step_0_gml_500_0",
+  "\\E3* (Kris^1! You're okay!!)/",
+
+  "obj_classscene_slash_Step_0_gml_501_0",
+  "\\E9* (I was really worried after you disappeared yesterday...)/",
+
+  "obj_classscene_slash_Step_0_gml_502_0",
+  "\\E0* (I guess we can talk about that after class.)/%",
+
+  "obj_classscene_slash_Step_0_gml_566_0",
+  "\\E2* (Hey^1, Kris!)/",
+
+  "obj_classscene_slash_Step_0_gml_567_0",
+  "\\E0* (..^1. if I knew you were gonna be late...)/",
+
+  "obj_classscene_slash_Step_0_gml_568_0",
+  "\\E3* (I wouldna showed up on time.)/%",
+
+  "obj_classscene_slash_Step_0_gml_574_0",
+  "\\E9* Susie^1, please don't kick your desk./",
+
+  "obj_classscene_slash_Step_0_gml_575_0",
+  "\\E4* Treat school property^1, like you'd treat people./%",
+
+  "obj_classscene_slash_Step_0_gml_580_0",
+  "\\E1* Okay./",
+
+  "obj_classscene_slash_Step_0_gml_581_0",
+  "\\E2* Next time I'll aim for the vitals./%",
+
+  "obj_classscene_slash_Step_0_gml_602_0",
+  "\\E9* Th..^1. That's not what I.../%",
+
+  "obj_classscene_slash_Step_0_gml_606_0",
+  "\\E5* In any case^1, good morning^1, Class!/",
+
+  "obj_classscene_slash_Step_0_gml_607_0",
+  "\\E7* We have a lot to go over today.../",
+
+  "obj_classscene_slash_Step_0_gml_608_0",
+  "\\E6* First^1, we're starting the reading from page 142!/",
+
+  "obj_classscene_slash_Step_0_gml_609_0",
+  "\\E4* Any..^1. any volunteers?/%",
+
+  "obj_classscene_slash_Step_0_gml_616_0",
+  "\\E2* Umm^1, I..^1. I guess I could read the.../%",
+
+  "obj_classscene_slash_Step_0_gml_626_0",
+  "\\E1* Ah^1, trouble yourself not^1, Noelle!/",
+
+  "obj_classscene_slash_Step_0_gml_627_0",
+  "\\E2* I will valiantly take this blow of humiliation!!/",
+
+  "obj_classscene_slash_Step_0_gml_629_0",
+  "\\E3* Umm^1, t-that's OK^1, I can.../%",
+
+  "obj_classscene_slash_Step_0_gml_643_0",
+  "\\E0* A-HEM./",
+
+  "obj_classscene_slash_Step_0_gml_644_0",
+  "\\E1* \"Page 142.\"/",
+
+  "obj_classscene_slash_Step_0_gml_645_0",
+  "\\E3* \"It was the best of times^1, it was the worst of times^1,\"/",
+
+  "obj_classscene_slash_Step_0_gml_646_0",
+  "\\E4* \"Times-a pretty good. Times-a pretty bad.\"/",
+
+  "obj_classscene_slash_Step_0_gml_647_0",
+  "\\E2* \"Mediocre times. Iffy times. So-so times...\"/%",
+
+  "obj_classscene_slash_Step_0_gml_653_0",
+  "* Listening to this^1, your eyes began to close automatically.../%",
+
+  "obj_classscene_slash_Step_0_gml_715_0",
+  "\\E7* Have a nice day^1, everyone!/",
+
+  "obj_classscene_slash_Step_0_gml_716_0",
+  "\\E9* And P-PLEASE^1! Remember your group projects!/%",
+
+  "obj_classscene_slash_Step_0_gml_739_0",
+  "\\E1* Oh^1, um..^1. Kris? Are..^1. you okay?/",
+
+  "obj_classscene_slash_Step_0_gml_740_0",
+  "\\E5* You were^1, um^1, s-sleeping all class.../",
+
+  "obj_classscene_slash_Step_0_gml_741_0",
+  "\\E0* D-don't worry^1! I'm not mad^1! J..^1. just concerned!/",
+
+  "obj_classscene_slash_Step_0_gml_742_0",
+  "\\EA* (Usually you only sleep through the start.)/",
+
+  "obj_classscene_slash_Step_0_gml_747_0",
+  "\\E3* ... Kris..^1. Where did you and Susie go yesterday?/",
+
+  "obj_classscene_slash_Step_0_gml_750_0",
+  "\\E5* Um^1, if you don't want to tell me^1, that's okay./",
+
+  "obj_classscene_slash_Step_0_gml_751_0",
+  "\\E9* I was just really..^1. worried about you./",
+
+  "obj_classscene_slash_Step_0_gml_752_0",
+  "\\E6* If... If Susie causes you any trouble^1, then.../",
+
+  "obj_classscene_slash_Step_0_gml_753_0",
+  "\\E8* Okay^1, I..^1. I can't really do anything. Eheh./",
+
+  "obj_classscene_slash_Step_0_gml_754_0",
+  "\\E0* But... I'm looking out for you^1, okay?/%",
+
+  "obj_classscene_slash_Step_0_gml_758_0",
+  "\\E0* Good luck and rest well tonight^1, okay?/%",
+
+  "scr_text_slash_scr_text_gml_3239_0",
+  "\\E3* Kris.../",
+
+  "scr_text_slash_scr_text_gml_3240_0",
+  "\\E5* This whole partner thing.../",
+
+  "scr_text_slash_scr_text_gml_3241_0",
+  "\\E9* You didn't lose sleep over it^1, did you?/",
+
+  "scr_text_slash_scr_text_gml_3250_0",
+  "\\E1* You say^1, with no negative intonation at all./",
+
+  "scr_text_slash_scr_text_gml_3252_0",
+  "\\E1* Kris^1, as your teacher^1, there's^1, um^1, a.../",
+
+  "scr_text_slash_scr_text_gml_3253_0",
+  "\\E5* A limit^1. To the advice I'm qualified for./",
+
+  "scr_text_slash_scr_text_gml_3254_0",
+  "\\E7* But if you're interested^1, I do have a recommendation./",
+
+  "scr_text_slash_scr_text_gml_3255_0",
+  "\\EA* There's^1, an^1, FPS game podcast that helps me sleep.../",
+
+  "scr_text_slash_scr_text_gml_3256_0",
+  "\\EB* No^1? Okay./%",
+
+  "scr_text_slash_scr_text_gml_3261_0",
+  "\\E3* H..^1. huh? Kris^1, that's^1, um..^1. good? I think?/",
+
+  "scr_text_slash_scr_text_gml_3262_0",
+  "\\E6* So maybe you were just.../",
+
+  "scr_text_slash_scr_text_gml_3263_0",
+  "\\E7* Staying up late talking to Asriel online again?/",
+
+  "scr_text_slash_scr_text_gml_3264_0",
+  "\\E8* ..^1. ah^1, wait^1, you..^1. can't do that^1, right?/",
+
+  "scr_text_slash_scr_text_gml_3265_0",
+  "\\E9* I..^1. I hope the internet gets fixed soon./",
+
+  "scr_text_slash_scr_text_gml_3266_0",
+  "\\EA* I don't want to revert into my primal form./%",
+
+  "obj_npc_facing_slash_Other_10_gml_208_0",
+  "\\E0* Kris^1, get a good sleep tonight^1, okay?/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_101_0",
+  "\\EQ* ..^1. well LOOK who it is. The school zombie./",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_102_0",
+  "\\E2* You were sleeping like a corpse all class./",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_103_0",
+  "\\EA* Heh^1, what's the matter?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_104_0",
+  "\\E2* Had trouble going beddy-bye last night?/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_111_0",
+  "\\EQ* Heh.../%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_122_0",
+  "\\EH* ME TOO^1, KRIS!!/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_123_0",
+  "\\E5* Like I could SLEEP after yesterday!?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_124_0",
+  "\\EP* Just waiting for today felt like..^1. years!!/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_125_0",
+  "\\EO* Did..^1. all that stuff really happen!?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_126_0",
+  "\\EO* Lancer^1, Ralsei^1, everyone..^1. are they still.../%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_131_0",
+  "\\EQ* ..^1. Look./",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_132_0",
+  "\\E2* You've been wondering the same thing^1, right?/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_143_0",
+  "\\EH* C'MON ALREADY!!!/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_291_0",
+  "\\E3* Alright^1, Kris. This is it. Moment of truth./",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_292_0",
+  "\\E0* Everything we've been waiting for is just behind this.../",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_294_0",
+  "\\EK* If we^1, uh^1, open this and there's nothing inside.../",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_295_0",
+  "\\E3* Will^1, uh^1, we still be.../%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_304_0",
+  "\\EH* Screw it^1! Let's just open it already!!/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_306_0",
+  "\\E3* Umm^1, S..^1. Susie...?/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_323_0",
+  "\\E7* YEAHHHH????/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_335_0",
+  "\\E7* Noelle..^1. hey.../",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_336_0",
+  "\\E7* What..^1. the HELL..^1. are you doing here...?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_338_0",
+  "\\E4* Umm..^1. s-sorry to bother you^1, but^1, ummm^1, I.../",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_339_0",
+  "\\E3* Well^1, I just..^1. Berdly and I were going to the Library to.../",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_340_0",
+  "\\E6* Do some r-research for our group projects^1, and.../",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_341_0",
+  "\\EQ* If it's OK^1, um..^1. would you..^1. want to come too...?/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_348_0",
+  "\\E2* Oh^1, Kris^1, you can come too I mean!/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_355_0",
+  "\\E7* Uhhhhhhhhhhh..^1. I mean.../",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_356_0",
+  "\\EK* We're like^1, uhhh..^1. busy^1, with^1, uh.../%",
+
+  "scr_text_slash_scr_text_gml_3272_0",
+  "Hanging out#alone in#the closet",
+
+  "scr_text_slash_scr_text_gml_3273_0",
+  "#Crime",
+
+  "scr_text_slash_scr_text_gml_3278_0",
+  "\\EP* (Kris^1! Help me out here^1! What do we say!?)/",
+
+  "scr_text_slash_scr_text_gml_3291_0",
+  "\\E2* Y'know^1, just..^1. chillin' out alone in the closet./",
+
+  "scr_text_slash_scr_text_gml_3292_0",
+  "\\EA* Just two friends^1, chillin' out in the closet^1, like normal./",
+
+  "scr_text_slash_scr_text_gml_3293_0",
+  "\\EK* Touchin'..^1. brooms and stuff./%",
+
+  "scr_text_slash_scr_text_gml_3298_0",
+  "\\E2* Y'know^1, just..^1. committin'..^1. crimes./",
+
+  "scr_text_slash_scr_text_gml_3299_0",
+  "\\EA* Just gonna do some crimes and go to..^1. jail./",
+
+  "scr_text_slash_scr_text_gml_3300_0",
+  "\\EH* Forever./",
+
+  "scr_text_slash_scr_text_gml_3301_0",
+  "\\E5* It sucks./%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_368_0",
+  "\\E2* O-oh...? Umm^1, well..^1. er..^1. that sounds^1, um^1, just.../%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_373_0",
+  "\\E4* Have fun^1, you two^1! I'll^1, um^1, be at the Library!/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_378_0",
+  "\\E9* (Kris^1, if you could bring her by later...)/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_379_0",
+  "\\EQ* (It would mean a lot to me...!)/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_386_0",
+  "\\EQ* Ummm..^1. actually^1, wait..^1. wait a second!!/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_387_0",
+  "\\E8* Susie^1, I^1, um..^1. I..^1. have something for you!/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_389_0",
+  "\\E6* ???/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_399_0",
+  "\\EM* OK see you bye!!!/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_403_0",
+  "\\EE* ..?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_404_0",
+  "\\E6* It's..^1. a lunchbox...?/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_410_0",
+  "\\EB* ..^1. full of CHALK?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_411_0",
+  "\\EF* ...!/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_412_0",
+  "\\ER* SHE HAD CHALK THE WHOLE TIME!?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_413_0",
+  "\\E5* AND DIDN'T GIVE IT TO ALPHYS!?!?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_414_0",
+  "\\EH* WHAT THE HELL^1, KRIS!?/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_421_0",
+  "\\EM* Here^1, YOU hold onto this./",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_423_0",
+  "* (You got the Chalk.)/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_445_0",
+  "\\E5* Wait^1, Kris^1! What the HELL was that!??!?!/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_446_0",
+  "\\EN* Why would NOELLE?? Ask ME??/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_447_0",
+  "\\EP* To do HOMEWORK?? With HER?!??/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_448_0",
+  "\\EA* Deathwish much? Does she WANNA fail?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_458_0",
+  "\\EB* ..^1. wait a second. WAIT a second./",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_459_0",
+  "\\EC* Kris^1, did you notice how nervous she was...?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_460_0",
+  "\\E6* And like..^1. blushing and stuff?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_461_0",
+  "\\EM* Kris^1, you don't think..^1. she..^1. uh.../%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_467_0",
+  "\\E5* She's onto our secret identities!?/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_471_0",
+  "\\E2* Y'know. This..^1. Dark World stuff./%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_475_0",
+  "\\E3* Damn..^1. We gotta keep this under wraps^1, Kris./",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_476_0",
+  "\\E2* This is OUR thing^1, y'know?/%",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_483_0",
+  "\\EA* Anyway^1, enough waiting already^1, right!?/",
+
+  "obj_ch2_lw_cutscenes_short_slash_Step_0_gml_484_0",
+  "\\E2* Let's go!/%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_58_0",
+  "* Here we are.../%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_64_0",
+  "\\E2* Kris^1!!! Susie!!!/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_65_0",
+  "\\EH* It's been ever-so-long...!/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_67_0",
+  "\\E2* Yeah, yeah^1... It's been what^1, a day?/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_69_0",
+  "\\EH* Oh! That is^1... short^1, isn't it...?/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_70_0",
+  "\\E1* It's just that^1, I've never had friends before.../",
+
+  "obj_ch2_scene4_slash_Step_0_gml_71_0",
+  "\\E2* So I've never waited so long to see them again, either!/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_73_0",
+  "\\EA* Fine^1, guess we'll TRY not to let you die of loneliness./",
+
+  "obj_ch2_scene4_slash_Step_0_gml_74_0",
+  "\\E2* I bet Lancer wants to see us too^1, right?/%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_90_0",
+  "\\E0* Hey^1... wait a sec./",
+
+  "obj_ch2_scene4_slash_Step_0_gml_91_0",
+  "\\EZ* Where IS Lancer?/%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_119_0",
+  "\\EZ* Where's^1... EVERYBODY?/%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_134_0",
+  "\\E2* Worry not^1, Susie^1. You'll see them in a moment./",
+
+  "obj_ch2_scene4_slash_Step_0_gml_135_0",
+  "\\E3* Just wait here^1, alright?/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_137_0",
+  "\\E1* ... OK./",
+
+  "obj_ch2_scene4_slash_Step_0_gml_138_0",
+  "\\EK* (Hey^1, this better not be some kind of prank or something!)/%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_153_0",
+  "\\EA* (Kris^1, I have something to ask you.)/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_154_0",
+  "\\E3* (I need you to return to the Light World...)/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_155_0",
+  "\\EI* (And go to the old classroom^1, to the EAST of the closet doors.)/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_156_0",
+  "\\E3* (Inside^1, gather everything on the ground...)/",
+
+  "obj_ch2_scene4_slash_Step_0_gml_157_0",
+  "\\E2* (And bring it back here^1. Could you?)/%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_216_0",
+  "\\EP* Hell are you going^1? Trying to have cake without me?/%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_218_0",
+  "* (Kris^1! I'll show you my castle later^1, ok?)/%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_272_0",
+  "\\E1* Hey^1, Kris^1, so where is every.../%",
+
+  "obj_ch2_scene4_slash_Step_0_gml_280_0",
+  "\\E6* ... one...?/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_11_0",
+  "\\E2* (Kris^1, I have something to show you in the CASTLE!)/%",
+
+  "obj_npc_facing_slash_Other_10_gml_376_0",
+  "\\E2* (Kris^1, go to the old classroom and bring everything back here.)/",
+
+  "obj_npc_facing_slash_Other_10_gml_377_0",
+  "\\E0* (It's where you returned to the Light World last time.)/",
+
+  "obj_npc_facing_slash_Other_10_gml_378_0",
+  "\\E2* (Head EAST after you exit the Dark World.)/%",
+
+  "obj_unusedclassevent_slash_Step_0_gml_186_0",
+  "* You gathered all the junk off the floor.../%",
+
+  "obj_unusedclassevent_slash_Step_0_gml_225_0",
+  "* ... and turned it into a giant dusty ball./%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_543_0",
+  "\\E1* Guess who's back^1, Clowns!?/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_545_0",
+  "\\E7* Lancer!!!/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_566_0",
+  "\\E2* Hey^1, Kris^1, dunno what you did^1, but hell yeah!/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_570_0",
+  "\\E9* Everyone's here!/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_576_0",
+  "\\E0* .. but^1, uh^1, what happened to^1, uh^1, Lancer's castle?/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_587_0",
+  "\\E3* Alllll gone!/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_589_0",
+  "\\E6* Gone?/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_598_0",
+  "\\EA* Right..^1. When Kris sealed the fountain^1,/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_599_0",
+  "\\EA* That \"Dark World\" disappeared.../",
+
+  "obj_ch2_scene6_slash_Step_0_gml_600_0",
+  "\\EI* ..^1. And turned back into a normal classroom./",
+
+  "obj_ch2_scene6_slash_Step_0_gml_602_0",
+  "\\E0* ..^1. So where's Lancer gonna live now?/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_604_0",
+  "\\E2* Don't worry^1, Susie!!/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_605_0",
+  "\\E1* We'll conquer Ralsei's castle as our own!!/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_622_0",
+  "\\E3* (Kris^1, as you bring Dark World Denizens back here...)/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_623_0",
+  "\\EI* (The power of our Fountain...)/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_624_0",
+  "\\E2* (Will transform this town more and more.)/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_625_0",
+  "\\E3* (From now on^1, the enemies we SPARE...)/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_626_0",
+  "\\E0* (Will be RECRUITED to our town.)/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_627_0",
+  "\\E2* (So let's keep SPARING enemies^1, okay?)/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_637_0",
+  "\\E3* Anyhow^1, why don't we all have a look around?/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_638_0",
+  "\\E2* We can head NORTH towards the CASTLE./",
+
+  "obj_ch2_scene6_slash_Step_0_gml_639_0",
+  "\\E2* I have a special surprise to show you there!/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_644_0",
+  "\\E3* Ahaha!^1! Not if I surprise myself first!!/",
+
+  "obj_ch2_scene6_slash_Step_0_gml_645_0",
+  "\\E2* Last one there is a fresh and fragrant egg!!/%",
+
+  "obj_ch2_scene6_slash_Step_0_gml_662_0",
+  "\\E2* C'mon^1, Kris! You gonna let him beat us!?/%"
+]
