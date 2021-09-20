@@ -2,7 +2,7 @@
   Tradução PT-BR de DELTARUNE
 </h1>
 
-<p align="center">Uma tradução em português do <b>DELTARUNE</b> feita pelo grupo <b>TEIARRUMA</b>.</p>
+<p align="center">Uma tradução brasileira feita pelo grupo <b>TEIARRUMA</b> do jogo <b>DELTARUNE</b>, um jogo por Toby Fox.</p>
 
 ## Downloads
 **Aviso:** a tradução abaixo não funciona na versão do jogo em que tem o capítulo 2, aguarde pelo lançamento da tradução do segundo capítulo!
@@ -39,3 +39,5 @@ Com as Vozes de...
 - **Saerena** - Vocais de "Não Esqueça (Don't Forget)";
 
 (Agradecimentos **Kyonamu** pela instrumental e mixagem)
+
+<img width="64" height="64" src="https://user-images.githubusercontent.com/28575885/134047058-652bd587-e9af-4e84-b0cd-e99c2b4ecad7.png">
