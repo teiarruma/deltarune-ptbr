@@ -1,76 +1,44 @@
 <h1 align="center">
-  Tradução PT-BR de DeltaRune
+  Tradução PT-BR de DELTARUNE
 </h1>
 
-Essa é a página da tradução em português do **DELTARUNE** feita pelo grupo **TEIARRUMA**.
-Veja e baixe a tradução abaixo!
+<p align="center">Essa é a página da tradução em português do <b>DELTARUNE</b> feita pelo grupo <b>TEIARRUMA</b>, use os links abaixo para instalar a tradução.</p>
 
-<h4 align="center"> 
-	🚧  ATENÇÃO! Capítulo 2 em tradução...  🚧
-</h4>
+<h3 align="center"> 
+	🚧  ATENÇÃO! A tradução do Capítulo 2 está em andamento...  🚧
+</h3>
 
-## Capítulo 1
+## Downloads
+**Aviso:** a tradução abaixo não funciona na versão do jogo que tem o capítulo 2, aguarde pelo lançamento da tradução do segundo capítulo!
+### 💻 [Baixar tradução do Capítulo 1](https://github.com/Gamepreie/deltarune-traducao/releases/download/Capitulo1/DeltarunePTBR-Cap1.zip)
 
-### Downloads
-
-#### 🖥️ [Clique aqui para baixar a tradução](http://bit.ly/deltatrad)
-(ou baixe usando o botão verde e óbvio do github)
-
-### Tutorial
+## Instruções
 Para baixar a tradução, siga esses passos em ordem:
 
-- [Tenha o DELTARUNE baixado](https://www.deltarune.com/)
-- Abra a pasta em que o DELTARUNE está
-- Abra o zip e abra a pasta *deltarune-traducao-master*
-- Abra a pasta *capítulo 1*
-- Mova todos os conteúdos da pasta da tradução para a pasta do DELTARUNE (apenas selecione todos os conteúdos da pasta e coloque eles na pasta do DELTARUNE)
-- Pronto, agora execute o jogo!
+1. Tenha o [DELTARUNE](https://www.deltarune.com/) instalado, você poderá instalar o jogo pela [Steam](https://store.steampowered.com/app/1671210) ou pelo [Itch.io](https://tobyfox.itch.io/deltarune);
+2. Baixe a tradução pelo link que está acima na seção de downloads;
+3. Abra a pasta na qual você instalou o Deltarune (clique com o botão direito no atalho do Deltarune e clique em "Abrir local do arquivo");
+4. Extraia os arquivos da pasta da tradução que você acabou de baixar para a pasta do Deltarune;
+5. Selecione a opção "Substituir o arquivo no destino" para todos os arquivos;
+6. Abra o Deltarune e aproveite!
 
-### Créditos
+## Créditos
 
-**Gomaproi** - Tradutor Geral / Revisor de mudanças / Colaborador
+- **Gomaproi** - Tradutor Geral / Revisor de mudanças / Colaborador;
+- **Tio refrigerante** - Tradutor Geral;
+- **BMatSantos** - Acentos / Sprites / Revisor Avançado;
+- **Detoria** - Tradutor/ Revisor Avançado;
+- **Marcel099** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças;
+- **KnG** - Tradutor / Revisor;
+- **CassadorEterno** - Tradutor / Sprites / Porta-Voz;
+- **Darko** - Rastreador de erros / Revisor;
+- **Lavember** - Tradutor;
+- **MRPowerGamerBR** - Correção de Erros / Colaborador;
+- **Eric Holmes** - Criador do Server do Discord;
 
-**Tio refrigerante** - Tradutor Geral
+Com as Vozes de...
 
-**BMatSantos** - Acentos / Sprites / Revisor Avançado
+- **Tanekoshima** - Jevil;
+- **Saerena** - Vocais de "Não Esqueça (Don't Forget)";
 
-**Detoria** - Tradutor/ Revisor Avançado
-
-**Marcel099** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças
-
-**KnG** - Tradutor / Revisor
-
-**CassadorEterno** - Tradutor / Sprites / Porta-Voz
-
-**Darko** - Rastreador de erros / Revisor
-
-**Lavember** - Tradutor
-
-**MRPowerGamerBR** - Correção de Erros / Colaborador
-
-**Eric Holmes** - Criador do Server do Discord
-
-#### Com as Vozes de
-
-**Tanekoshima** - Jevil
-
-**Saerena** -  Vocais de "Não Esqueça (Don't Forget)"
-##### (Agradecimentos *Kyonamu* pela instrumental e mixagem)
-
-## Capítulo 2
-
-🚧  Em tradução...  🚧
-
-### Créditos
-
-**Gomaproi** - Tradutor
-
-**Tio refrigerante** - Tradutor
-
-**BMatSantos** - Acentos / Sprites / Tradutor
-
-**Detoria** - Tradutor
-
-**Marcelo** - Tradutor
-
-**CassadorEterno** - Tradutor
+(Agradecimentos **Kyonamu** pela instrumental e mixagem)
