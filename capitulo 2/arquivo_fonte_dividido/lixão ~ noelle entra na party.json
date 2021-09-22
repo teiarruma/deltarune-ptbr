@@ -1,0 +1,262 @@
+[
+	"obj_ch2_scene11b_slash_Step_0_gml_76_0",
+	"\\E0* L..^1. Looks like this trash saved us./%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_115_0",
+	"\\E1* C'mon.../%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_183_0",
+	"\\E2* Haha^1, who's king of the trash pile now!?/%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_251_0",
+	"\\EZ* O..^1. Ow...!/",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_253_0",
+	"* Susie^1, are you alright?/%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_272_0",
+	"\\EQ* ..^1. Heh^1, it's nothing./",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_273_0",
+	"\\EQ* I just.../%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_279_0",
+	"\\EV* O... ow./%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_289_0",
+	"\\EB* ... sure you don't want me to look?/",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_291_0",
+	"\\E5* L-look at what? I'm fine!/%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_316_0",
+	"\\EH* WOAH HEY WHAT THE HECK ARE YOU--/%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_355_0",
+	"\\E2* Feel better?/%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_362_0",
+	"\\EH* FEEL BETTER!^1? AFTER YOU JUST CAME UP AND--/%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_372_0",
+	"\\EM* Umm..^1. doesn't feel WORSE^1, I guess./",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_383_0",
+	"\\E0* How do you do that^1, anyway?/",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_384_0",
+	"\\E1* That..^1. healing..^1. thingy./",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_386_0",
+	"\\E2* Oh^1, healing magic? It's simple^1, Susie. Anyone can do it./",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_387_0",
+	"\\EG* ..^1. I could even teach you^1, if you're interested./%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_395_0",
+	"\\EA* Heh^1, ask me again when it's^1, like^1, blood explosion magic./%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_413_0",
+	"\\EQ* But^1, um^1, if you WANTED^1, I guess I could learn it./",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_414_0",
+	"\\EK* Then you wouldn't^1, y'know^1, have to annoy me with it anymore./",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_416_0",
+	"\\EG* Sure^1, Susie. Next time we have a break!/%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_434_0",
+	"\\E1* (Let's just go already^1, Kris...)/%",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_483_0",
+	"\\E0* By the way Kris^1, I just remembered!/",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_484_0",
+	"\\E0* Although you can only carry 12 ITEMs around.../",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_485_0",
+	"\\E0* Your STORAGE will hold any extra items you pick up./",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_486_0",
+	"\\EG* You can access it where you check Recruits!/",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_497_0",
+	"\\E2* (Enemies you SPARE get RECRUITed to our town, remember?)/",
+
+	"obj_ch2_scene11b_slash_Step_0_gml_488_0",
+	"\\E6* Woah^1, that seems like pretty useful information./%",
+
+	"scr_text_slash_scr_text_gml_4179_0",
+	"\\EA* There's a fork in the path..^1. Kris^1, it seems like.../",
+
+	"scr_text_slash_scr_text_gml_4180_0",
+	"\\EI* It might be advantageous if we split up./",
+
+	"scr_text_slash_scr_text_gml_4181_0",
+	"\\E2* Who do you want to go with?/",
+
+	"scr_text_slash_scr_text_gml_4174_0",
+	"#Go with#Ralsei",
+
+	"scr_text_slash_scr_text_gml_4175_0",
+	"#Go with#Susie",
+
+	"obj_ch2_scene12_slash_Step_0_gml_85_0",
+	"\\EH* Hey^1, why does Kris get to choose all the time!?/%",
+
+	"obj_ch2_scene12_slash_Step_0_gml_100_0",
+	"\\E2* Ralsei^1, you're going with me!/%",
+
+	"obj_ch2_scene12_slash_Step_0_gml_104_0",
+	"\\EU* H-huh!? K-Kris^1, I...!!/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_58_0",
+	"\\EF* K-Kris!^1! What are you---/",
+
+	"obj_ch2_city01_slash_Step_0_gml_60_0",
+	"\\E1* Oh Noelle Sweetie/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_76_0",
+	"\\EE* (Don't let her find me...)/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_85_0",
+	"\\EI* Noelle Sweetie Darling Honey Where Are You/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_94_0",
+	"\\EC* We're A Team Now Remember/",
+
+	"obj_ch2_city01_slash_Step_0_gml_95_0",
+	"* You Still Have To Be My Willing Minion/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_107_0",
+	"\\ED* ..^1. Kris/",
+
+	"obj_ch2_city01_slash_Step_0_gml_108_0",
+	"\\E1* It Appears/",
+
+	"obj_ch2_city01_slash_Step_0_gml_109_0",
+	"\\EB* Our Comrades Have Pressed The Escape Key On Us/",
+
+	"obj_ch2_city01_slash_Step_0_gml_110_0",
+	"\\E5* ...^1. So It Has Come To This.../",
+
+	"obj_ch2_city01_slash_Step_0_gml_111_0",
+	"\\E5* In Order To Find Our Teams/",
+
+	"obj_ch2_city01_slash_Step_0_gml_113_0",
+	"\\E9* We Must Form An Uneasy Truce.../%",
+
+	"obj_ch2_city01_slash_Step_0_gml_120_0",
+	"\\E6* Queen!^1! My splendid Queen!^1! Where are you!!/",
+
+	"obj_ch2_city01_slash_Step_0_gml_122_0",
+	"\\E8* Oh No Don't Let Him Find Me/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_146_0",
+	"\\E0* Ah^1, Kris..^1. NOT the lifeform I was looking for./",
+
+	"obj_ch2_city01_slash_Step_0_gml_147_0",
+	"\\E3* ..^1. Hmm? Where's the rest of the C+ Squad?/",
+
+	"obj_ch2_city01_slash_Step_0_gml_148_0",
+	"\\E7* Don't tell me you got abandoned!? HA!!/",
+
+	"obj_ch2_city01_slash_Step_0_gml_149_0",
+	"\\E2* HAHA!^1! That's what you get for trusting Susie!^1! HA!!/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_157_0",
+	"\\E3* H..^1. Huh? Noelle? Queen?/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_165_0",
+	"\\EB* They're just..^1. busy retro gaming somewhere!!/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_176_0",
+	"\\E6* I bet they're waiting for me on the player select screen!!/",
+
+	"obj_ch2_city01_slash_Step_0_gml_177_0",
+	"\\E2* Listening to strangely groovy music!^1! HAHA^1! HA!^1! HA!!/",
+
+	"obj_ch2_city01_slash_Step_0_gml_186_0",
+	"\\E9* ...Sigh./%",
+
+	"obj_ch2_city01_slash_Step_0_gml_193_0",
+	"\\EA* So it's come to this./",
+
+	"obj_ch2_city01_slash_Step_0_gml_194_0",
+	"\\E9* In order to find our respective teams.../",
+
+	"obj_ch2_city01_slash_Step_0_gml_195_0",
+	"\\E0* It APPEARS.../",
+
+	"obj_ch2_city01_slash_Step_0_gml_196_0",
+	"\\EJ* We must form an uneasy truce.../%",
+
+	"obj_ch2_city01_slash_Step_0_gml_204_0",
+	"\\E8* What The/",
+
+	"obj_ch2_city01_slash_Step_0_gml_205_0",
+	"\\EH* Who The Beep Said You Could Double Trucies/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_216_0",
+	"\\E3* Huh? Did you hear something?/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_227_0",
+	"\\EC* Honk Honk No It's Just The Sounds Of The City/",
+
+	"obj_ch2_city01_slash_Step_0_gml_229_0",
+	"\\EI* Oh okay./%",
+
+	"obj_ch2_city01_slash_Step_0_gml_237_0",
+	"\\E7* Hmph. Well I'll be ahead. Don't be LATE!!!/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_258_0",
+	"\\E1* Kris As Part Of Our Truce (The Better One)/",
+
+	"obj_ch2_city01_slash_Step_0_gml_259_0",
+	"\\ED* Keep Distracting Berdly And Find Noelle/",
+
+	"obj_ch2_city01_slash_Step_0_gml_260_0",
+	"\\E4* For You See.../%",
+
+	"obj_ch2_city01_slash_Step_0_gml_269_0",
+	"\\E5* Berdly..^1. He's.../%",
+
+	"obj_ch2_city01_slash_Step_0_gml_279_0",
+	"\\E1* OK There's Nothing Wrong With Him He's Just Annoying/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_289_0",
+	"\\ED* Toodles/%",
+
+	"scr_text_slash_scr_text_gml_4282_0",
+	"\\E9* Kris^1, I..^1. um..^1. if it's okay.../",
+
+	"scr_text_slash_scr_text_gml_4283_0",
+	"\\E2* ..^1. G-got any room for another truce?/",
+
+	"scr_text_slash_scr_text_gml_4277_0",
+	"#Of course",
+
+	"scr_text_slash_scr_text_gml_4291_0",
+	"\\E4* Thanks^1, Kris.../%",
+
+	"scr_text_slash_scr_text_gml_4278_0",
+	"#No Triple#Trucies",
+
+	"scr_text_slash_scr_text_gml_4298_0",
+	"\\E8* Har har^1, very funny!/",
+
+	"scr_text_slash_scr_text_gml_4299_0",
+	"\\E8* Well^1, I'd rather take my chances with you than her!/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_313_0",
+	"* (Noelle joined the party!)/%",
+
+	"obj_ch2_city01_slash_Step_0_gml_388_0",
+	"\\ES* So^1, um^1, any idea where Susie is?/",
+
+	"obj_ch2_city01_slash_Step_0_gml_389_0",
+	"\\EN* What!? WHAT!? I'm just asking!^1! It's a normal question!!/%",
+
+	"obj_mouseSpawnSwitch_slash_Step_0_gml_123_0",
+	"\\E2* A m-m-m-m-m.../"
+]
