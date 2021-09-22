@@ -111,122 +111,175 @@
   "* Tarde demais^1, garoto bonzinho!^1! Amizade Formar!!/%",
 
   "obj_ch2_scene6_slash_Step_0_gml_161_0",
-  "* (LANCER was added to your Key Items.)/",
+  "* (LANCER foi adicionado aos seus Itens Chave.)/",
 
   "obj_ch2_scene6_slash_Step_0_gml_163_0",
-  "* ..^1. What? Where'd you go...?/",
+  "* ..^1. Quê? Onde você foi...?/",
 
   "obj_ch2_scene6_slash_Step_0_gml_165_0",
-  "* Don't worry!^1! I just entered your INVENTORY!!/",
+  "* Não se preocupe!^1! Acabei de entrar no seu INVENTÁRIO!!/",
 
   "obj_ch2_scene6_slash_Step_0_gml_166_0",
-  "\\E3* I'll just be hanging out in Kris's pocket!!!/",
+  "\\E3* Eu e Kris vamos só dar uma volta!!!/",
 
   "obj_ch2_scene6_slash_Step_0_gml_168_0",
-  "\\EK* Dunno what that means^1, but OK!/%",
+  "\\EK* Sei lá o que isso quer dizer^1, mas beleza!/%",
 
   "obj_ch2_scene6_slash_Step_0_gml_180_0",
-  "* Feare not^1! I too^1, shall Assisteth!/",
+  "* Não temaiss^1! Eu,^1 da mesma forma,^1, devo vos auxiliarr!/",
 
   "obj_ch2_scene6_slash_Step_0_gml_182_0",
-  "\\E4* Uh^1, we're good./",
+  "\\E4* Ah^1, nós estamos bem./",
 
   "obj_ch2_scene6_slash_Step_0_gml_184_0",
-  "\\E3* Ahah^1, quite!^1! We^1, as a Teame ^1- art Good!!!/%",
+  "\\E3* Haha^1, deveras!^1! Nós^1, como um Timeh ^1- estamos Bemm!!!/%",
 
   "obj_ch2_scene6_slash_Step_0_gml_201_0",
-  "* (ROUXLS became a Key Item even though no one wanted that.)/%",
+  "* (ROUXLS tornou-se um Item Chave mesmo que ninguém quisesse isso.)/%",
 
   "obj_ch2_scene6_slash_Step_0_gml_214_0",
-  "* \\cYI\\cW will also \\cYjoin\\cW/%",
+  "* \\cYI\\cW tammbém \\cYjuntar-se\\cW/%",
 
   "obj_ch2_scene6_slash_Step_0_gml_238_0",
-  "* (THE ORIGINAL   \\cYSTARWALKER\\cW became a Key Item.)/%",
+  "* (A VERDADEIRA   \\cYESTRELA CAMINHANTE\\cW tornou-se um Item Chave.)/%",
 
   "obj_ch2_scene6_slash_Step_0_gml_250_0",
-  "\\E0* Alright^1, enough already. Let's get going./%",
+  "\\E0* Certo^1, já chega. Vamo embora./%",
 
   "obj_ch2_scene6_slash_Step_0_gml_276_0",
-  "\\E2* Good luck today^1, Kris. See you soon!/%",
+  "\\E2* Boa sorte hoje^1, Kris. Te vejo depois!/%",
 
   "obj_ch2_scene7_slash_Step_0_gml_31_0",
-  "\\E0* Well^1, damn. GUESS we gotta do our project./",
+  "\\E0* Bem^1, aff. ACHO que nós vamos fazer nosso trabalho./",
 
   "obj_ch2_scene7_slash_Step_0_gml_32_0",
-  "\\EB* (Sigh...)/%",
+  "\\EB* (ai ai...)/%",
 
   "obj_ch2_scene7_slash_Step_0_gml_39_0",
-  "\\E9* Least we got Lancer^1, right!?/%",
+  "\\E9* Pelo menos o Lancer veio^1, né!?/%",
 
   "obj_ch2_scene7_slash_Step_0_gml_58_0",
-  "\\E6* ..^1. Lancer? Where are you?/%",
+  "\\E6* ..^1. Lancer? Onde cê tá?/%",
 
   "obj_ch2_scene7_slash_Step_0_gml_66_0",
-  "\\EK* Damn^1, guess he skipped out after all^1, huh./%",
+  "\\EK* Putz^1, acho que no fim ele fugiu^1, heim./%",
 
   "obj_ch2_scene7_slash_Step_0_gml_76_0",
-  "* Hmm..^1. so^1, where should we do this?/%",
+  "* Hmm..^1. então^1, onde a gente devia fazer isto?/%",
 
   "obj_ch2_scene7_slash_Step_0_gml_85_0",
-  "\\E1* ..^1. what? The Library?/%",
+  "\\E1* ..^1. quê? Na Biblioteca?/%",
 
   "obj_ch2_scene7_slash_Step_0_gml_92_0",
-  "\\E0* Ugh..^1. Well^1, alright./%",
+  "\\E0* Aff..^1. Bem^1, beleza./%",
 
   "obj_ch2_scene8_slash_Step_0_gml_31_0",
-  "\\E1* Alright. We're here./%",
+  "\\E1* Belê. Tamo aqui./%",
 
   "obj_ch2_scene8_slash_Step_0_gml_35_0",
-  "\\E2* School. Goddamn. Project./%",
+  "\\E2* Saco. De.# Trabalho. Escolar./%",
 
   "obj_ch2_scene8_slash_Step_0_gml_48_0",
-  "\\EA* Books. God. Damn. Crazy about them./%",
+  "\\EA* Livros. Que. Saco. Fico doida com eles./%",
 
   "obj_ch2_scene8_slash_Step_0_gml_63_0",
-  "\\EK* Hey^1, Kris^1, where the hell IS everybody?/%",
+  "\\EK* Ei^1, Kris^1, onde diabos TÁ todo mundo?/%",
 
   "obj_ch2_scene8_slash_Step_0_gml_71_0",
-  "\\E0* Something seems kinda..^1. off./%",
+  "\\E0* Alguma coisa parece..^1. errada./%",
 
   "obj_ch2_scene8_slash_Step_0_gml_80_0",
-  "\\E5* Screw it let's just go play Space Pinball in the computer lab/%",
+  "\\E5* Tanto faz, bora só jogar Space Pinball na sala de informática/%",
 
   "obj_ch2_scene8_slash_Step_0_gml_97_0",
-  "\\E6* H..^1. huh...?/",
+  "\\E6* H..^1. hã...?/",
 
   "obj_ch2_scene8_slash_Step_0_gml_98_0",
-  "* It's like.../%",
+  "* Parece.../%",
 
   "obj_ch2_scene8_slash_Step_0_gml_108_0",
-  "\\EC* ..^1. the inside of the closet?/%",
+  "\\EC* ..^1. o lado de dentro do armário?/%",
 
   "obj_ch2_scene8_slash_Step_0_gml_119_0",
-  "\\E1* Kris^1, you don't think this could be.../%",
+  "\\E1* Kris^1, cê não acha que isto podia ser.../%",
 
   "obj_ch2_scene8_slash_Step_0_gml_134_0",
-  "* ... another Dark World?/%",
+  "* ... outro Mundo Obscuro?/%",
 
   "obj_ch2_scene8_slash_Step_0_gml_143_0",
-  "\\EA* Well./",
+  "\\EA* Bem./",
 
   "obj_ch2_scene8_slash_Step_0_gml_144_0",
-  "\\E2* Guess this means we can't start our project./",
+  "\\E2* Acho que isto quer dizer que não podemos começar nosso trabalho./",
 
   "obj_ch2_scene8_slash_Step_0_gml_145_0",
-  "\\EQ* ..^1. unless./",
+  "\\EQ* ..^1. a não ser que./",
 
   "obj_ch2_scene8_slash_Step_0_gml_146_0",
-  "\\EA* You know. Kris./",
+  "\\EA* Você sabe. Kris./",
 
   "obj_ch2_scene8_slash_Step_0_gml_147_0",
-  "\\EQ* If there's a Dark Fountain in there./",
+  "\\EQ* Se tem outra Fonte Negra lá dentro./",
 
   "obj_ch2_scene8_slash_Step_0_gml_148_0",
-  "\\E2* You can seal it.../",
+  "\\E2* Você pode selar ela.../",
 
   "obj_ch2_scene8_slash_Step_0_gml_149_0",
-  "\\EQ* And it'll turn back into the computer lab^1, right?/%",
+  "\\EQ* E isso vai virar a sala de informática de novo, certo?/%",
+
+
+
+  "scr_text_slash_scr_text_gml_3689_0",
+  "* ... Então qual vai ser^1, Kris?/",
+
+  "scr_text_slash_scr_text_gml_3683_0",
+  "#Vamos lá!#Vamos lá!",
+
+  "scr_text_slash_scr_text_gml_3684_0",
+  "Podemos usar#o computador#na minha#casa",
+
+
+  "scr_text_slash_scr_text_gml_3697_0",
+  "\\E2* Isso aí^1, vamo só parar de fingir!/",
+
+  "scr_text_slash_scr_text_gml_3698_0",
+  "\\E9* A nossa última aventura foi ótima^1, né?!/",
+
+  "scr_text_slash_scr_text_gml_3699_0",
+  "\\EY* Eu não conseguia parar de pensar em fazer outra!/",
+
+  "scr_text_slash_scr_text_gml_3700_0",
+  "\\EQ* Eu não sei o que tá lá dentro^1, mas.../",
+
+  "scr_text_slash_scr_text_gml_3701_0",
+  "\\EY* Nós não podemos viver se a gente não descobrir^1, né!?/%",
+
+
+  "scr_text_slash_scr_text_gml_3707_0",
+  "\\EV* Kris^1, você tá certo./",
+
+  "scr_text_slash_scr_text_gml_3708_0",
+  "\\EW* Tipo^1, você disse uma verdade./",
+
+  "scr_text_slash_scr_text_gml_3709_0",
+  "\\EV* Mas você cometeu um erro./",
+
+  "scr_text_slash_scr_text_gml_3710_0",
+  "\\EX* O erro de me conhecer./",
+
+  "scr_text_slash_scr_text_gml_3711_0",
+  "\\EX* porque quando eu vejo um grande precipício^1,/",
+
+  "scr_text_slash_scr_text_gml_3712_0",
+  "\\EX* Tudo o que eu quero é pular nele./",
+
+  "scr_text_slash_scr_text_gml_3713_0",
+  "\\EV* E enquanto você tá comigo.../",
+
+  "scr_text_slash_scr_text_gml_3714_0",
+  "\\EY* Eu vou te puxar junto também!/%",
+
 
   "obj_ch2_scene8_slash_Step_0_gml_157_0",
-  "\\E2* C'mon^1, Kris!!/%"
+  "\\E2* Vamos lá^1, Kris!!/%"
 ]
