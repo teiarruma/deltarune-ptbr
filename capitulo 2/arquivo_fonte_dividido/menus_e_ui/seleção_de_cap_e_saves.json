@@ -1,0 +1,103 @@
+[
+	"The Beginning",
+	"Um Mundo Cibernético",
+	
+	"chapname",
+	"O Início",
+	
+	"gameloadConfirm",
+	"Jogar",
+	
+	"stringPlay",
+	"Voltar",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_223_0",
+	"Selecione um arquivo, por favor.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_253_0",
+	"Arqs. Cap. 1",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_242_0",
+	"Não Usar SAVE do Cap. 1",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_285_0",
+	"Fechar Programa",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_201_0",
+	"Copiar",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_201_1",
+	"Limpar",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_216_0",
+	"ESCOLHA UM PARA CÓPIA.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_217_0",
+	"ESCOLHA UM ALVO PARA REFLEXÃO.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_219_0",
+	"ESCOLHA UM PARA DELEÇÃO.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_223_0",
+	"Selecione um arquivo, por favor.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_224_0",
+	"Selecione um arquivo para ser copiado.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_225_0",
+	"Selecione um arquivo para ser a cópia.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_226_0",
+	"Esse arquivo será sobrescrito.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_227_0",
+	"Selecione um arquivo para deleção.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_291_0",
+	"Inicie o Cap. 2 de um SAVE do Cap. 1.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_292_0",
+	"Você irá começar o Capítulo 2 no SAVE ~1.",
+	
+	"scr_84_load_ini_slash_scr_84_load_ini_gml_13_0",
+	"[VAZIO]",
+	
+	"scr_text_slash_scr_text_gml_6996_0",
+	"Cancelar",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_128_0",
+    "Continuar",
+	
+	"obj_darkcontroller_slash_Draw_0_gml_96_0",
+	"Voltar",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_130_0",
+	"ARQUIVO não encontrado.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_125_0",
+	"ARQUIVO zerado não encontrado.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_116_1",
+	"VOLTAR",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_117_0",
+	"INICIAR",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_119_0",
+	"SOBRESCREVER",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_119_2",
+	"ARQUIVO SERÁ SUBSUMIDO.",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_120_2",
+	"APAGAR ARQUIVO MESMO?",
+	
+	"DEVICE_MENU_slash_Draw_0_gml_121_2",
+	"ENTÃO SERÁ DESTRUÍDO.",
+	
+	"をプレイ",
+	"Chapter Select",
+
+	"をプレイ",
+	"Selecionar Cap."
+]
