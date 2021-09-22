@@ -6,7 +6,7 @@ const outFileName = 'arquivo_fonte_remontado.json';
 
 const originalFile = path.join(__dirname, 'arquivo_fonte_inteiro', 'arquivo_fonte_original.json')
 const outFilePath = path.join(__dirname, 'arquivo_fonte_inteiro', outFileName);
-const inputPath = path.join(__dirname, 'arquivo_fonte_dividido', '*.json');
+const inputPath = path.join(__dirname, 'arquivo_fonte_dividido', '**', '*.json');
 
 //
 if (!fs.existsSync(outFilePath)) {fs.copyFileSync(originalFile, outFilePath);}
