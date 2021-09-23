@@ -1,16 +1,17 @@
-<h1 align="center">
-  Tradução PT-BR de DELTARUNE
-</h1>
-
 <div align="center">
+<h1>Tradução PT-BR de DELTARUNE</h1>
 <p>Uma tradução brasileira feita pelo grupo <b>TEIARRUMA</b> do jogo <b>DELTARUNE</b>, um jogo por Toby Fox. <br>
-<b>Discord Oficial: https://discord.gg/UQUMkrb46c</b></p>
 </div>
 
-## Downloads
-**Aviso:** a tradução abaixo não funciona na versão do jogo em que tem o capítulo 2, aguarde pelo lançamento da tradução do segundo capítulo!
+## Links e Downloads
+### 🔗 [Entrar no Discord](https://discord.gg/UQUMkrb46c)
+Entre no nosso Discord e receba atualizações da tradução do segundo capítulo, converse com os tradutores e mais!
+
 ### 💻 [Baixar tradução do Capítulo 1](https://github.com/Gamepreie/deltarune-traducao/releases/download/Capitulo1/DeltarunePTBR-Cap1.zip)
-### 💻 Baixar tradução do Capítulo 1 + 2 (🚧 A tradução do Capítulo 2 está em andamento 🚧)
+**Aviso:** a tradução acima não funciona na versão do jogo em que tem o capítulo 2, aguarde pelo lançamento da tradução do segundo capítulo, que inclui a tradução do primeiro capítulo!
+
+### 💻 Baixar tradução do Capítulo 1 + 2 (🚧 A tradução do Capítulo 2 está em andamento! 🚧)
+A tradução do segundo capítulo ainda está sendo feita, entre no nosso Discord para receber atualizações!
 
 ## Instruções
 Para baixar a tradução, siga esses passos em ordem:
