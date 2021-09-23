@@ -10,7 +10,7 @@ Entre no nosso Discord e receba atualizações da tradução do segundo capítul
 ### 💻 [Baixar tradução do Capítulo 1](https://github.com/Gamepreie/deltarune-traducao/releases/download/Capitulo1/DeltarunePTBR-Cap1.zip)
 **Aviso:** a tradução acima não funciona na versão do jogo em que tem o capítulo 2, aguarde pelo lançamento da tradução do segundo capítulo, que inclui a tradução do primeiro capítulo!
 
-### 💻 Baixar tradução do Capítulo 1 + 2 (🚧 A tradução do Capítulo 2 está em andamento! 🚧)
+### 💻 Baixar tradução do Capítulo 1 + 2 (🚧 Em andamento 🚧)
 A tradução do segundo capítulo ainda está sendo feita, entre no nosso Discord para receber atualizações!
 
 ## Instruções
