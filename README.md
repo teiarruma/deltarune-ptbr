@@ -2,7 +2,10 @@
   Tradução PT-BR de DELTARUNE
 </h1>
 
-<p align="center">Uma tradução brasileira feita pelo grupo <b>TEIARRUMA</b> do jogo <b>DELTARUNE</b>, um jogo por Toby Fox.</p>
+<div align="center">
+<p>Uma tradução brasileira feita pelo grupo <b>TEIARRUMA</b> do jogo <b>DELTARUNE</b>, um jogo por Toby Fox. <br>
+<b>Discord Oficial: https://discord.gg/UQUMkrb46c</b></p>
+</div>
 
 ## Downloads
 **Aviso:** a tradução abaixo não funciona na versão do jogo em que tem o capítulo 2, aguarde pelo lançamento da tradução do segundo capítulo!
