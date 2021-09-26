@@ -7,11 +7,10 @@
 ### 🔗 [Entrar no Discord](https://discord.gg/UQUMkrb46c)
 Entre no nosso Discord e receba atualizações da tradução do segundo capítulo, converse com os tradutores e mais!
 
-### 💻 [Baixar tradução do Capítulo 1](https://github.com/Gamepreie/deltarune-traducao/releases/download/Capitulo1/DeltarunePTBR-Cap1.zip)
-Veja como baixar a tradução na seção de Instruções abaixo!
-
 ### 💻 Baixar tradução do Capítulo 1 + 2 (🚧 Em andamento 🚧)
 A tradução do segundo capítulo ainda está sendo feita, entre no nosso Discord para receber atualizações!
+
+**Aviso Importante:** por conta da versão nova do jogo ser diferente, o capítulo 1 não funcionará se você está jogando na versão da Steam/Itch.io, se você ainda tem a versão antiga do jogo baixado diretamente do site do Deltarune, [baixe a tradução do primeiro capítulo aqui](https://github.com/Gamepreie/deltarune-traducao/releases/download/Capitulo1/DeltarunePTBR-Cap1.zip).
 
 ## Instruções
 Para baixar a tradução, siga esses passos em ordem:
