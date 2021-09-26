@@ -10,7 +10,7 @@
 Entre no nosso Discord e receba atualizações da tradução do segundo capítulo, converse com os tradutores e mais!
 
 ### 💻 [Baixar Capítulo 1](https://github.com/gomaproi/deltarune-traducao/releases/download/Capitulo1-ComJogo/DELTARUNE-PTBR.zip)
-Este é a versão do Deltarune em que tem a tradução do Capítulo 1 já instalada, em caso de dúvidas, veja as instruções abaixo ou entre no nosso Discord! Link para entrar acima! **Esta versão do Deltarune não inclui o Capítulo 2.**
+Este é a versão do Deltarune em que tem a tradução do Capítulo 1 já instalada, em caso de dúvidas, veja as instruções abaixo ou entre no nosso Discord usando o link para entrar acima! Windows apenas. **Esta versão do Deltarune não inclui o Capítulo 2.**
 
 ## Instruções
 **Aviso:** esta parte vale apenas para o download do Capítulo 1, a tradução do Capítulo 2 ainda está sendo feita!
