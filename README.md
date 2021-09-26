@@ -7,20 +7,18 @@
 ### 🔗 [Entrar no Discord](https://discord.gg/UQUMkrb46c)
 Entre no nosso Discord e receba atualizações da tradução do segundo capítulo, converse com os tradutores e mais!
 
-### 💻 Baixar tradução do Capítulo 1 + 2 (🚧 Em andamento 🚧)
-A tradução do segundo capítulo ainda está sendo feita, entre no nosso Discord para receber atualizações!
+### 💻 [Baixar Capítulo 1](https://github.com/gomaproi/deltarune-traducao/releases/download/Capitulo1-ComJogo/DELTARUNE-PTBR.zip)
+Este é o Deltarune na qual tem a tradução do Capítulo 1 já instalada, veja as instruções abaixo caso em dúvida! **Esta versão do Deltarune não inclui o Capítulo 2.**
 
-**Aviso Importante:** por conta da versão nova do jogo ser diferente, o capítulo 1 não funcionará se você está jogando na versão da Steam/Itch.io, se você ainda tem a versão antiga do jogo baixado diretamente do site do Deltarune, [baixe a tradução do primeiro capítulo aqui](https://github.com/Gamepreie/deltarune-traducao/releases/download/Capitulo1/DeltarunePTBR-Cap1.zip).
+### 💻 Baixar Capítulo 2 e 1 (🚧 Em andamento 🚧)
+A tradução do segundo capítulo ainda está sendo feita, [entre no nosso Discord](https://discord.gg/UQUMkrb46c) e [siga-nos no Twitter](https://twitter.com/teiarruma) para receber atualizações!
 
 ## Instruções
-Para baixar a tradução, siga esses passos em ordem:
+**Aviso:** esta parte vale apenas para o download do Capítulo 1, a tradução do Capítulo 2 ainda está sendo feita!
 
-1. Tenha o [DELTARUNE](https://www.deltarune.com/) instalado, você poderá instalar o jogo pela [Steam](https://store.steampowered.com/app/1671210) ou pelo [Itch.io](https://tobyfox.itch.io/deltarune);
-2. Baixe a tradução pelo link que está acima na seção de downloads;
-3. Abra a pasta na qual você instalou o Deltarune (clique com o botão direito no atalho do Deltarune e clique em "Abrir local do arquivo");
-4. Extraia os arquivos da pasta da tradução que você acabou de baixar para a pasta do Deltarune;
-5. Selecione a opção "Substituir o arquivo no destino" para todos os arquivos;
-6. Abra o Deltarune e aproveite!
+1. Baixe o jogo pelo link acima;
+2. Extraia o arquivo (Clique com o botão direito no arquivo e depois clique em "Extrair tudo" ou "Extrair aqui");
+3. Abra o DELTARUNE na pasta que você extraiu e aproveite!
 
 ## Créditos
 
