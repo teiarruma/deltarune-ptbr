@@ -26,7 +26,7 @@ Este é a versão do Deltarune em que tem a tradução do Capítulo 1 já instal
 - **BMatSantos** - Acentos / Sprites / Revisor Avançado;
 - **Detoria** - Tradutor/ Revisor Avançado;
 - **Marcel099** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças;
-- **KnG** - Tradutor / Revisor;
+- **zKinG0D_** - Tradutor / Revisor;
 - **CassadorEterno** - Tradutor / Sprites / Porta-Voz;
 - **Darko** - Rastreador de erros / Revisor;
 - **Lavember** - Tradutor;
