@@ -1,36 +1,30 @@
 <div align="center">
-<h1>Tradução PT-BR de DELTARUNE</h1>
-<p>Uma tradução brasileira feita pelo grupo <b>TEIARRUMA</b> do jogo <b>DELTARUNE</b>, um jogo por Toby Fox. <br>
+  <h1>Tradução PT-BR de DELTARUNE</h1>
+  <p>Uma tradução brasileira feita pela <a href="https://twitter.com/teiarruma"><b>TEIARRUMA</b></a>, <a href="https://twitter.com/CortexTraducao" target="_blank"><b>CÓRTEX</b></a> e <b>NANALUKI</b>  do jogo <a href="https://deltarune.com/"><b>DELTARUNE</b></a>, um jogo por Toby Fox. <br>
 </div>
 
 ## Links e Downloads
+
+### 💻 Baixar Capítulo 2 + 1
+<b>Será liberado em breve, volte mais tarde.</b> Uma tradução feita em conjunto com a Córtex e Nanaluki, inclui o download da tradução do Capítulo 2 e 1, você precisará baixar o jogo separadamente pela Steam ou Itch.io, Instruções abaixo.
+
 ### 🔗 [Entrar no Discord](https://discord.gg/UQUMkrb46c)
-Entre no nosso Discord e receba atualizações da tradução do segundo capítulo, converse com os tradutores e mais!
-
-### 💻 [Baixar tradução do Capítulo 1](https://github.com/Gamepreie/deltarune-traducao/releases/download/Capitulo1/DeltarunePTBR-Cap1.zip)
-Veja como baixar a tradução na seção de Instruções abaixo!
-
-### 💻 Baixar tradução do Capítulo 1 + 2 (🚧 Em andamento 🚧)
-A tradução do segundo capítulo ainda está sendo feita, entre no nosso Discord para receber atualizações!
+Entre no nosso Discord e converse com os tradutores e outras pessoas interessadas em Deltarune!
 
 ## Instruções
-Para baixar a tradução, siga esses passos em ordem:
+1. Baixe o jogo pela [Itch.io](https://tobyfox.itch.io/deltarune) ou pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/);
+2. Baixe o instalador da tradução, disponível para Mac e Windows **OU** baixe diretamente o arquivo ZIP;
+3. Abra e siga as instruções do instalador;
+4. Abra o DELTARUNE e aproveite!
 
-1. Tenha o [DELTARUNE](https://www.deltarune.com/) instalado, você poderá instalar o jogo pela [Steam](https://store.steampowered.com/app/1671210) ou pelo [Itch.io](https://tobyfox.itch.io/deltarune);
-2. Baixe a tradução pelo link que está acima na seção de downloads;
-3. Abra a pasta na qual você instalou o Deltarune (clique com o botão direito no atalho do Deltarune e clique em "Abrir local do arquivo");
-4. Extraia os arquivos da pasta da tradução que você acabou de baixar para a pasta do Deltarune;
-5. Selecione a opção "Substituir o arquivo no destino" para todos os arquivos;
-6. Abra o Deltarune e aproveite!
-
-## Créditos
+## Créditos (Capítulo 1)
 
 - **Gomaproi** - Tradutor Geral / Revisor de mudanças / Colaborador;
 - **Tio refrigerante** - Tradutor Geral;
 - **BMatSantos** - Acentos / Sprites / Revisor Avançado;
 - **Detoria** - Tradutor/ Revisor Avançado;
 - **Marcel099** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças;
-- **KnG** - Tradutor / Revisor;
+- **zKinG0D_** - Tradutor / Revisor;
 - **CassadorEterno** - Tradutor / Sprites / Porta-Voz;
 - **Darko** - Rastreador de erros / Revisor;
 - **Lavember** - Tradutor;
