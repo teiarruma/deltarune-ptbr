@@ -1,25 +1,23 @@
 <div align="center">
   <h1>Tradução PT-BR de DELTARUNE</h1>
-  <p>Uma tradução brasileira feita pelo grupo <b>TEIARRUMA</b> do jogo <b>DELTARUNE</b>, um jogo por Toby Fox. <br>
-  <h3> 🚧 <b>Tradução do Capítulo 2 em andamento!</b> 🚧</h3>
-  <p>A tradução do Capítulo 2 está sendo feita em conjunto com a <a href="https://twitter.com/CortexTraducao" target="_blank">Córtex Traduções</a>, entre no nosso Discord pelo link abaixo para mais informações! Você ainda pode baixar o Capítulo 1 abaixo.</p>
+  <p>Uma tradução brasileira feita pela <a href="https://twitter.com/teiarruma"><b>TEIARRUMA</b></a>, <a href="https://twitter.com/CortexTraducao" target="_blank"><b>CÓRTEX</b></a> e <b>NANALUKI</b>  do jogo <a href="https://deltarune.com/"><b>DELTARUNE</b></a>, um jogo por Toby Fox. <br>
 </div>
 
 ## Links e Downloads
-### 🔗 [Entrar no Discord](https://discord.gg/UQUMkrb46c)
-Entre no nosso Discord e receba atualizações da tradução do segundo capítulo, converse com os tradutores e mais!
 
-### 💻 [Baixar Capítulo 1](https://github.com/gomaproi/deltarune-traducao/releases/download/Capitulo1-ComJogo/DELTARUNE-PTBR.zip)
-Este é a versão do Deltarune em que tem a tradução do Capítulo 1 já instalada, em caso de dúvidas, veja as instruções abaixo ou entre no nosso Discord usando o link para entrar acima! Windows apenas. **Esta versão do Deltarune não inclui o Capítulo 2.**
+### 💻 Baixar Capítulo 2 + 1
+<b>Será liberado em breve, volte mais tarde.</b> Uma tradução feita em conjunto com a Córtex e Nanaluki, inclui o download da tradução do Capítulo 2 e 1, você precisará baixar o jogo separadamente pela Steam ou Itch.io, Instruções abaixo.
+
+### 🔗 [Entrar no Discord](https://discord.gg/UQUMkrb46c)
+Entre no nosso Discord e converse com os tradutores e outras pessoas interessadas em Deltarune!
 
 ## Instruções
-**Aviso:** esta parte vale apenas para o download do Capítulo 1, a tradução do Capítulo 2 ainda está sendo feita!
+1. Baixe o jogo pela [Itch.io](https://tobyfox.itch.io/deltarune) ou pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/);
+2. Baixe o instalador da tradução, disponível para Mac e Windows **OU** baixe diretamente o arquivo ZIP;
+3. Abra e siga as instruções do instalador;
+4. Abra o DELTARUNE e aproveite!
 
-1. Baixe o jogo pelo link acima;
-2. Extraia o arquivo (Clique com o botão direito no arquivo e depois clique em "Extrair tudo" ou "Extrair aqui");
-3. Abra o DELTARUNE na pasta que você extraiu e aproveite!
-
-## Créditos
+## Créditos (Capítulo 1)
 
 - **Gomaproi** - Tradutor Geral / Revisor de mudanças / Colaborador;
 - **Tio refrigerante** - Tradutor Geral;
