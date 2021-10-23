@@ -38,15 +38,15 @@ Entre no nosso Discord e converse com os tradutores e outras pessoas interessada
 (Agradecimentos Especiais: **Goularte**, **CassadorEterno** e **gomaproi**)
 
 ## Créditos (Capítulo 1)
-- **gomaproi** - Tradutor / Revisor / Colaborador;
-- **refri** - Tradutor;
-- **BMatSantos** - Tradutor / Gráficos / Revisor;
-- **Detoria** - Tradutor / Revisor;
-- **Marcel099** - Tradutor / Revisor / Colaborador;
-- **zKinG0D_** - Tradutor / Revisor;
-- **CassadorEterno** - Tradutor / Sprites / Porta-Voz;
+- **gomaproi** - Tradução / Revisor / Colaborador;
+- **refri** - Tradução;
+- **BMatSantos** - Tradução / Gráficos / Revisor;
+- **Detoria** - Tradução / Revisor;
+- **Marcel099** - Tradução / Revisor / Colaborador;
+- **zKinG0D_** - Tradução / Revisor;
+- **CassadorEterno** - Tradução / Sprites / Porta-Voz;
 - **Darko** - Revisor;
-- **Lavember** - Tradutor;
+- **Lavember** - Tradução;
 - **MRPowerGamerBR** - Revisor / Colaborador;
 
 Com as Vozes de...
@@ -54,6 +54,6 @@ Com as Vozes de...
 - **Tanekoshima** - Jevil;
 - **Saerena** - Vocais de "Não Esqueça (Don't Forget)";
 
-(Agradecimentos **Kyonamu** pela instrumental e mixagem e **Eric Holmes** por criar o primeiro servidor da Teiarruma)
+(Agradecimentos Especiais: **Kyonamu** pela instrumental/mixagem e **Eric Holmes** por criar o primeiro servidor da Teiarruma)
 
 <img width="64" height="64" src="https://user-images.githubusercontent.com/28575885/134047058-652bd587-e9af-4e84-b0cd-e99c2b4ecad7.png">
