@@ -13,12 +13,31 @@ Entre no nosso Discord e converse com os tradutores e outras pessoas interessada
 
 ## Instruções
 1. Baixe o jogo pela [Itch.io](https://tobyfox.itch.io/deltarune) ou pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/);
-2. Baixe o instalador da tradução, disponível para Mac e Windows **OU** baixe diretamente o arquivo ZIP;
+2. Baixe o instalador da tradução, disponível para Windows e Mac **OU** baixe diretamente o arquivo ZIP;
 3. Abra e siga as instruções do instalador;
 4. Abra o DELTARUNE e aproveite!
 
-## Créditos (Capítulo 1)
+## Créditos (Capítulo 2)
+- **Nanaluki** - Tradução / Gráficos / Revisão / Coordenação;
+- **Andrepgfon** (Córtex) - Tradução / Programação / Revisão / Coordenação;
+- **Kalleu11** (Córtex) - Tradução / Programação / Gráficos / Revisão / Coordenação;
+- **NWazolski** (Córtex) - Tradução;
+- **Potato** (Córtex) - Tradução / Gráficos / Revisão / Coordenação;
+- **Veni** (Córtex) - Tradução;
+- **victo** (Córtex) - Tradução / Gráficos / Revisão;
+- **Zarpe** (Córtex) - Tradução / Revisão;
+- **uNag** (Córtex) - Tradução / Revisão;
+- **big** (Teiarruma) - Tradução / Revisão;
+- **bMatSantos** (Teiarruma) - Tradução / Programação / Gráficos / Revisão;
+- **Detoria** (Teiarruma) - Tradução / Programação / Revisão;
+- **marcel099** (Teiarruma) - Tradução / Revisão / Coordenação;
+- **refri** (Teiarruma) - Tradução / Revisão;
+- **Spongeglock** (Teiarruma) - Tradução / Revisão;
+- **Mashmelloweee** (Teiarruma) - Artes do Projeto;
 
+(Agradecimentos: Gomaproi, Goularte e CassadorEterno)
+
+## Créditos (Capítulo 1)
 - **Gomaproi** - Tradutor Geral / Revisor de mudanças / Colaborador;
 - **Tio refrigerante** - Tradutor Geral;
 - **BMatSantos** - Acentos / Sprites / Revisor Avançado;
