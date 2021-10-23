@@ -14,7 +14,7 @@ Entre no nosso Discord e converse com os tradutores e outras pessoas interessada
 ## Instruções
 1. Baixe o jogo pela [Itch.io](https://tobyfox.itch.io/deltarune) ou pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/);
 2. Baixe o instalador da tradução, disponível para Windows e Mac **OU** baixe diretamente o arquivo ZIP;
-3. Abra e siga as instruções do instalador;
+3. Caso tenha baixado o instalador, abra e siga as etapas dentro dele;
 4. Abra o DELTARUNE e aproveite!
 
 ## Créditos (Capítulo 2)
@@ -35,26 +35,25 @@ Entre no nosso Discord e converse com os tradutores e outras pessoas interessada
 - **Spongeglock** (Teiarruma) - Tradução / Revisão;
 - **Mashmelloweee** (Teiarruma) - Artes do Projeto;
 
-(Agradecimentos: Gomaproi, Goularte e CassadorEterno)
+(Agradecimentos Especiais: **Goularte**, **CassadorEterno** e **gomaproi**)
 
 ## Créditos (Capítulo 1)
-- **Gomaproi** - Tradutor Geral / Revisor de mudanças / Colaborador;
-- **Tio refrigerante** - Tradutor Geral;
-- **BMatSantos** - Acentos / Sprites / Revisor Avançado;
-- **Detoria** - Tradutor/ Revisor Avançado;
-- **Marcel099** - Tradutor / Revisor Avançado / Colaborador / Revisor de mudanças;
+- **gomaproi** - Tradutor / Revisor / Colaborador;
+- **refri** - Tradutor;
+- **BMatSantos** - Tradutor / Gráficos / Revisor;
+- **Detoria** - Tradutor / Revisor;
+- **Marcel099** - Tradutor / Revisor / Colaborador;
 - **zKinG0D_** - Tradutor / Revisor;
 - **CassadorEterno** - Tradutor / Sprites / Porta-Voz;
-- **Darko** - Rastreador de erros / Revisor;
+- **Darko** - Revisor;
 - **Lavember** - Tradutor;
-- **MRPowerGamerBR** - Correção de Erros / Colaborador;
-- **Eric Holmes** - Criador do Server do Discord;
+- **MRPowerGamerBR** - Revisor / Colaborador;
 
 Com as Vozes de...
 
 - **Tanekoshima** - Jevil;
 - **Saerena** - Vocais de "Não Esqueça (Don't Forget)";
 
-(Agradecimentos **Kyonamu** pela instrumental e mixagem)
+(Agradecimentos **Kyonamu** pela instrumental e mixagem e **Eric Holmes** por criar o primeiro servidor da Teiarruma)
 
 <img width="64" height="64" src="https://user-images.githubusercontent.com/28575885/134047058-652bd587-e9af-4e84-b0cd-e99c2b4ecad7.png">
