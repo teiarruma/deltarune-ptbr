@@ -3,15 +3,10 @@
   <p>Uma tradução brasileira feita pela <a href="https://twitter.com/teiarruma"><b>TEIARRUMA</b></a>, <a href="https://twitter.com/CortexTraducao" target="_blank"><b>CÓRTEX</b></a> e <b>NANALUKI</b>  do jogo <a href="https://deltarune.com/"><b>DELTARUNE</b></a>, um jogo por Toby Fox. <br>
 </div>
 
-## Links e Downloads
+## Download
 
-### 💻 [Baixar Tradução (Capítulo 2 e 1)](https://drive.google.com/file/d/1-P8zjMB3zvUPmdMjiDKNvYP7LY78nspb/view)
-Ou <b>[baixe a tradução sem o instalador](https://drive.google.com/file/d/1UuZ-RsEGy6hCMQvLBdn0wMOEzU34-EIH/view)</b>. Uma tradução feita em conjunto com a Córtex e Nanaluki, inclui o download da tradução do Capítulo 2 e 1, você precisará baixar o jogo separadamente pela Steam ou Itch.io, Instruções abaixo.
-
-Última Atualização: 24/10/2021 18:03
-
-### 🔗 [Entrar no Discord](https://discord.gg/UQUMkrb46c)
-Entre no nosso Discord e converse com os tradutores e outras pessoas interessadas em Deltarune!
+### 💻 [Baixar Tradução (Capítulo 2 e 1)](https://discord.gg/UQUMkrb46c)
+**O link te redirecionará ao nosso Discord**, a tradução está disponível e sempre será atualizada no nosso Discord. Uma tradução feita em conjunto com a Córtex e Nanaluki, inclui o download da tradução do Capítulo 2 e 1, você precisará baixar o jogo separadamente pela Steam ou Itch.io, Instruções abaixo.
 
 ## Instruções
 1. Baixe o DELTARUNE pela [Itch.io](https://tobyfox.itch.io/deltarune) ou pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/);
