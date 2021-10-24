@@ -12,7 +12,7 @@ Ou <b>[baixe a tradução sem o instalador](https://drive.google.com/file/d/1UuZ
 Entre no nosso Discord e converse com os tradutores e outras pessoas interessadas em Deltarune!
 
 ## Instruções
-1. Baixe o jogo pela [Itch.io](https://tobyfox.itch.io/deltarune) ou pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/);
+1. Baixe o DELTARUNE pela [Itch.io](https://tobyfox.itch.io/deltarune) ou pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/);
 2. Baixe o instalador da tradução, disponível para Windows e Mac **OU** baixe diretamente o arquivo ZIP;
 3. Caso tenha baixado o instalador, abra e siga as etapas dentro dele;
 4. Abra o DELTARUNE e aproveite!
