@@ -8,6 +8,8 @@
 ### 💻 [Baixar Tradução (Capítulo 2 e 1)](https://drive.google.com/file/d/1-P8zjMB3zvUPmdMjiDKNvYP7LY78nspb/view)
 Ou <b>[baixe a tradução sem o instalador](https://drive.google.com/file/d/1UuZ-RsEGy6hCMQvLBdn0wMOEzU34-EIH/view)</b>. Uma tradução feita em conjunto com a Córtex e Nanaluki, inclui o download da tradução do Capítulo 2 e 1, você precisará baixar o jogo separadamente pela Steam ou Itch.io, Instruções abaixo.
 
+Última Atualização: 24/10/2021 18:03
+
 ### 🔗 [Entrar no Discord](https://discord.gg/UQUMkrb46c)
 Entre no nosso Discord e converse com os tradutores e outras pessoas interessadas em Deltarune!
 
