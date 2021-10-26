@@ -5,7 +5,7 @@
 
 ## Download
 
-### 💻 [Baixar Tradução (Capítulo 2 e 1)](https://discord.gg/UQUMkrb46c)
+### 💻 [Baixar Tradução (Capítulo 2 e 1)](https://discord.gg/Ts6BCvUmRs)
 **O link te redirecionará ao nosso Discord**, a tradução está disponível e sempre será atualizada no nosso Discord. Uma tradução feita em conjunto com a Córtex e Nanaluki, inclui o download da tradução do Capítulo 2 e 1, você precisará baixar o jogo separadamente pela Steam ou Itch.io, Instruções abaixo.
 
 ## Instruções
