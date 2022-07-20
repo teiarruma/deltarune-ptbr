@@ -5,7 +5,7 @@
 
 ## Links
 
-### 💻 [Baixar Tradução (Capítulo 2 e 1)](https://twitter.com/deltarune_br)
+### 💻 [Baixar Tradução (Capítulos 2 e 1)](https://twitter.com/deltarune_br)
 **O link te redirecionará ao Twitter do DELTARUNE BRASIL**, a versão mais recente tradução estará sempre disponível lá! Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em sí, você terá que baixar o jogo pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) ou [Itch.io](https://tobyfox.itch.io/deltarune) e substituir os arquivos do jogo.
 
 ### 📞 [Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
