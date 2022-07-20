@@ -3,7 +3,7 @@
   <p>Uma tradução brasileira feita pela <a href="https://twitter.com/teiarruma"><b>TEIARRUMA</b></a>, <a href="https://twitter.com/CortexTraducao" target="_blank"><b>CÓRTEX</b></a> e <b>NANALUKI</b>  de <a href="https://deltarune.com/"><b>DELTARUNE</b></a>, um jogo por Toby Fox. <br>
 </div>
 
-## Download
+## Links
 
 ### 💻 [Baixar Tradução (Capítulo 2 e 1)](https://twitter.com/deltarune_br)
 **O link te redirecionará ao Twitter do DELTARUNE BRASIL**, a versão mais recente tradução estará sempre disponível lá! Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em sí, você terá que baixar o jogo pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) ou [Itch.io](https://tobyfox.itch.io/deltarune) e substituir os arquivos do jogo.
