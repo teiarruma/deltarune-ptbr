@@ -13,6 +13,14 @@
 
 **Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!** O servidor é gerenciado pela TEIARRUMA e não tem nenhuma relação com a CÓRTEX ou NANALUKI.
 
+## Como contribuir
+
+Atualmente não estamos aceitando novos membros na equipe. Quando um novo capítulo for lançado, é possível que iremos liberar a entrada de novas pessoas na equipe pra trabalhar na tradução dele.
+
+A permissão de entrada exige conversa para avaliar as habilidades da pessoa e, assim, descobrir quais tarefas ela poderia desempenhar. Com isso, decidir se será aceita no projeto de tradução.
+
+Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter e no [nosso servidor](https://discord.gg/7DtZ7E4yYG) Discord para saber quando estivermos adicionando mais pessoas à tradução!
+
 ## Créditos (Capítulo 2)
 - **Nanaluki** - Tradução / Gráficos / Revisão / Coordenação;
 - **Andrepgfon** (Córtex) - Tradução / Programação / Revisão / Coordenação;
