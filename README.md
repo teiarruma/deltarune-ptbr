@@ -9,6 +9,8 @@
 
 **O link te redirecionará à nossa publicação mais recente da tradução dos capítulos 1 e 2.** Quer baixar uma versão mais antiga? Dê uma olhada na nossa [página de publicações](https://github.com/gomaproi/deltarune-ptbr/releases)! Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em si. Você terá que baixar o jogo pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) ou [Itch.io](https://tobyfox.itch.io/deltarune) e substituir os arquivos do jogo.
 
+Não entendeu bem como instalar? Experimente seguir [nosso tutorial](https://youtu.be/SJmiWVmWhlg)!
+
 ### 📞 [Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
 
 **Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!** O servidor é gerenciado pela TEIARRUMA e não tem nenhuma relação com a CÓRTEX ou NANALUKI.
