@@ -6,6 +6,7 @@
 ## Links
 
 ### 💻 [Baixar Tradução (Capítulos 1 e 2)](https://github.com/gomaproi/deltarune-ptbr/releases/latest)
+<img src="https://img.shields.io/github/downloads/teiarruma/deltarune-ptbr/total.svg?label=Total%20de%20Downloads" alt="Valor total de downloads dos arquivos anexos às releases deste repositório" title="Contagem desde outubro de 2023" />
 
 **O link te redirecionará à nossa publicação mais recente da tradução dos capítulos 1 e 2.** Quer baixar uma versão mais antiga? Dê uma olhada na nossa [página de publicações](https://github.com/gomaproi/deltarune-ptbr/releases)! Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em si. Você terá que baixar o jogo pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) ou [Itch.io](https://tobyfox.itch.io/deltarune) e substituir os arquivos do jogo.
 
