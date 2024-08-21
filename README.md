@@ -5,12 +5,19 @@
 
 ## Links
 
-### 💻 [Baixar Tradução (Capítulos 1 e 2)](https://github.com/gomaproi/deltarune-ptbr/releases/latest)
+### 💻 [Baixar Tradução (Capítulos 1 e 2)](https://github.com/teiarruma/deltarune-ptbr/releases/latest)
+
 <img src="https://img.shields.io/github/downloads/teiarruma/deltarune-ptbr/total.svg?label=Total%20de%20Downloads" alt="Valor total de downloads dos arquivos anexos às releases deste repositório" title="Contagem desde outubro de 2023" />
 
-**O link te redirecionará à nossa publicação mais recente da tradução dos capítulos 1 e 2.** Quer baixar uma versão mais antiga? Dê uma olhada na nossa [página de publicações](https://github.com/gomaproi/deltarune-ptbr/releases)! Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em si. Você terá que baixar o jogo pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) ou [Itch.io](https://tobyfox.itch.io/deltarune) e substituir os arquivos do jogo.
+**O link te redirecionará à nossa publicação mais recente da tradução dos capítulos 1 e 2.** Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em si. Você terá que baixar o jogo pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) ou [Itch.io](https://tobyfox.itch.io/deltarune) e substituir os arquivos do jogo.
 
 Não entendeu bem como instalar? Experimente seguir [nosso tutorial](https://youtu.be/SJmiWVmWhlg)!
+
+### 📚 [Baixar uma versão antiga do jogo](https://www.reddit.com/r/Underminers/comments/puaadd/archiving_deltarune_ch12_versions/)
+
+**O jogo atualizou? E a tradução ainda não é compatível com a nova versão? Ou seu computador é _Windows 7_? Clique no link pra buscar uma versão suportada!** Ele te levará ao projeto _Archiving DELTARUNE Ch1&2 versions_ do subreddit  [_Underminers_](https://www.reddit.com/r/Underminers/), que busca guardar arquivos de versões antigas de _Deltarune_. Esse é o meio pelo qual recomendamos baixar versões antigas da demo do jogo.
+
+Procure e baixe de lá a versão do jogo suportada pela tradução e, como normalmente, substitua os arquivos do jogo pelos da respectiva versão da tradução disponível na nossa [página de publicações](https://github.com/teiarruma/deltarune-ptbr/releases). Atualmente, a última versão suportada é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/latest). No caso do _Windows 7_, é a [v1.07](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.07.0).
 
 ### 📞 [Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
 
