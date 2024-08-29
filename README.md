@@ -13,11 +13,11 @@
 
 Não entendeu bem como instalar? Experimente seguir [nosso tutorial](https://youtu.be/SJmiWVmWhlg)!
 
-### 📚 [Baixar uma versão antiga do jogo](https://www.reddit.com/r/Underminers/comments/puaadd/archiving_deltarune_ch12_versions/)
+### 📚 [Baixar uma versão antiga](https://github.com/teiarruma/deltarune-ptbr/releases)
 
-**O jogo atualizou? E a tradução ainda não é compatível com a nova versão? Ou seu computador é _Windows 7_? Clique no link pra buscar uma versão suportada!** Ele te levará ao projeto _Archiving DELTARUNE Ch1&2 versions_ do subreddit  [_Underminers_](https://www.reddit.com/r/Underminers/), que busca guardar arquivos de versões antigas de _Deltarune_. Esse é o meio pelo qual recomendamos baixar versões antigas da demo do jogo.
+**O jogo atualizou e a tradução ainda não é compatível com a nova versão?** Ou seu computador é _Windows 7_? Clique no link e procure uma versão suportada da tradução. Ele te levará à nossa página de publicações. Atualmente, a última versão suportada do jogo é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/latest). Para _Windows 7_, é a [v1.07](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.07.0).
 
-Procure e baixe de lá a versão do jogo suportada pela tradução e, como normalmente, substitua os arquivos do jogo pelos da respectiva versão da tradução disponível na nossa [página de publicações](https://github.com/teiarruma/deltarune-ptbr/releases). Atualmente, a última versão suportada é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/latest). No caso do _Windows 7_, é a [v1.07](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.07.0).
+Para fazer download de uma antiga versão da demo gratuita de _Deltarune_, recomendamos o projeto _Archiving DELTARUNE Ch1&2 versions_, o qual é mantido pela comunidade do jogo e se baseia no [Internet Archive](https://archive.org/). Como normalmente, substitua os arquivos do jogo pelos da respectiva versão da tradução.
 
 ### 📞 [Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
 
