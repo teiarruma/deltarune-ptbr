@@ -24,7 +24,13 @@
 
 **Clique em um dos botões para baixar a versão mais recente da tradução dos capítulos 1 e 2.** Escolha de acordo com o seu Sistema Operacional. Não sabe qual clicar? Então experimente clicar no botão _Windows 10/11_. Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em si. Você terá que baixar o jogo pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) ou [Itch.io](https://tobyfox.itch.io/deltarune) e substituir os arquivos do jogo.
 
-Não entendeu bem como instalar? Experimente seguir [nosso tutorial](https://youtu.be/SJmiWVmWhlg)!
+### ✍️ [Tutorial e Alerta](https://youtu.be/SJmiWVmWhlg)
+
+Não entendeu bem como instalar? Ficou perdido em alguma parte da instalação? Experimente seguir [nosso tutorial](https://youtu.be/SJmiWVmWhlg)!
+
+**Quando a esmola é demais, o santo desconfia:** Fique com um pé atrás ao encontrar os famosos "links diretos". Se a postagem tiver seção de comentários, o sujeito pode tentar fazer o download parecer seguro ao deletar comentários e ocultar contas que denunciam o golpe. Quer arriscar instalar um [vírus](https://pt.wikipedia.org/wiki/V%C3%ADrus_de_computador) no seu computador? Um [minerador de bitcoin](https://tecnoblog.net/responde/seu-computador-pode-estar-minerando-bitcoins-agora-saiba-impedir/)? [Spyware](https://pt.wikipedia.org/wiki/Spyware)? [Ransomware](https://pt.wikipedia.org/wiki/Ransomware)? É por sua conta e risco.
+
+Para saber se a pessoa por trás do vídeo ou postagem é alguém que trabalhou na tradução ao longo de sua história, consulte os nomes nos [créditos](#créditos).
 
 ### 📚 [Baixar uma versão antiga](https://github.com/teiarruma/deltarune-ptbr/releases)
 
@@ -44,7 +50,9 @@ A permissão de entrada exige conversa para avaliar as habilidades da pessoa e, 
 
 Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter e no [nosso servidor](https://discord.gg/7DtZ7E4yYG) Discord para saber quando estivermos adicionando mais pessoas à tradução!
 
-## Créditos (Capítulo 2)
+## Créditos
+
+### Capítulo 2
 - **Nanaluki** - Tradução / Gráficos / Revisão / Coordenação;
 - **Andrepgfon** (Córtex) - Tradução / Programação / Revisão / Coordenação;
 - **Kalleu11** (Córtex) - Tradução / Programação / Gráficos / Revisão / Coordenação;
@@ -64,7 +72,7 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 
 (Agradecimentos Especiais: **Goularte**, **CassadorEterno** e **gomaproi**)
 
-## Créditos (Capítulo 1)
+### Capítulo 1
 - **gomaproi** - Tradução / Revisor / Colaborador;
 - **refri** - Tradução;
 - **BMatSantos** - Tradução / Gráficos / Revisor;
