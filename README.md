@@ -28,9 +28,9 @@
 
 Não entendeu bem como instalar? Ficou perdido em alguma parte da instalação? Experimente seguir [nosso tutorial](https://youtu.be/SJmiWVmWhlg)!
 
-**Quando a esmola é demais, o santo desconfia:** Fique com um pé atrás ao encontrar os famosos "links diretos". Se a postagem tiver seção de comentários, o sujeito pode tentar fazer o download parecer seguro ao deletar comentários e ocultar contas que denunciam o golpe. Quer arriscar instalar um [vírus](https://pt.wikipedia.org/wiki/V%C3%ADrus_de_computador) no seu computador? Um [minerador de bitcoin](https://tecnoblog.net/responde/seu-computador-pode-estar-minerando-bitcoins-agora-saiba-impedir/)? [Spyware](https://pt.wikipedia.org/wiki/Spyware)? [Ransomware](https://pt.wikipedia.org/wiki/Ransomware)? É por sua conta e risco.
+**Quando a esmola é demais, o santo desconfia:** Fique com um pé atrás ao encontrar os famosos "links diretos". Se o vídeo ou postagem tiver seção de comentários, o sujeito pode tentar fazer o download parecer seguro ao deletar comentários e ocultar contas que denunciam o golpe. Quer arriscar instalar um [vírus](https://pt.wikipedia.org/wiki/V%C3%ADrus_de_computador) no seu computador? Um [minerador de bitcoin](https://tecnoblog.net/responde/seu-computador-pode-estar-minerando-bitcoins-agora-saiba-impedir/)? [Spyware](https://pt.wikipedia.org/wiki/Spyware)? [Ransomware](https://pt.wikipedia.org/wiki/Ransomware)? É por sua conta e risco.
 
-Para saber se a pessoa por trás do vídeo ou postagem é alguém que trabalhou na tradução ao longo de sua história, consulte os nomes nos [créditos](#créditos).
+Para saber se quem fez reupload da tradução é alguém que trabalhou nela ao longo de sua história, consulte os nomes nos [créditos](#créditos).
 
 ### 📚 [Baixar uma versão antiga](https://github.com/teiarruma/deltarune-ptbr/releases)
 
