@@ -5,12 +5,38 @@
 
 ## Links
 
-### 💻 [Baixar Tradução (Capítulos 1 e 2)](https://github.com/gomaproi/deltarune-ptbr/releases/latest)
-<img src="https://img.shields.io/github/downloads/teiarruma/deltarune-ptbr/total.svg?label=Total%20de%20Downloads" alt="Valor total de downloads dos arquivos anexos às releases deste repositório" title="Contagem desde outubro de 2023" />
+### 💻 [Baixar Tradução (Capítulos 1 e 2)](https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op1_Windows_1.10.4.zip)
 
-**O link te redirecionará à nossa publicação mais recente da tradução dos capítulos 1 e 2.** Quer baixar uma versão mais antiga? Dê uma olhada na nossa [página de publicações](https://github.com/gomaproi/deltarune-ptbr/releases)! Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em si. Você terá que baixar o jogo pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) ou [Itch.io](https://tobyfox.itch.io/deltarune) e substituir os arquivos do jogo.
+<p dir="auto">
+    <a href="#">
+        <img src="https://img.shields.io/github/downloads/teiarruma/deltarune-ptbr/total.svg?label=Total%20de%20Downloads" alt="Valor total de downloads dos arquivos anexos às releases deste repositório" title="Contagem desde outubro de 2023" />
+    </a>
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op1_Windows_1.10.4.zip">
+        <img src="https://img.shields.io/badge/Windows_10/11-0078d7" title="Baixar versão para Windows 10 ou 11"/>
+    </a>
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.07.0/DELTARUNEdemo_PTBR_Windows_1.07.0.zip">
+        <img src="https://img.shields.io/badge/Windows_7-31cece" title="Baixar versão para Windows 7" />
+    </a>
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op2_MacOs64Bits_1.10.4.zip">
+        <img src="https://img.shields.io/badge/MacOS-green" title="Baixar versão para macOS 64 bits" />
+    </a>
+</p>
 
-Não entendeu bem como instalar? Experimente seguir [nosso tutorial](https://youtu.be/SJmiWVmWhlg)!
+**Clique em um dos botões para baixar a versão mais recente da tradução dos capítulos 1 e 2.** Escolha de acordo com o seu Sistema Operacional. Não sabe qual clicar? Então experimente clicar no botão _Windows 10/11_. Note que os arquivos apenas contém os arquivos da tradução, e não o jogo em si. Você terá que baixar o jogo pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) ou [Itch.io](https://tobyfox.itch.io/deltarune) e substituir os arquivos do jogo.
+
+### ✍️ [Tutorial e Alerta](https://youtu.be/SJmiWVmWhlg)
+
+Não entendeu bem como instalar? Ficou perdido em alguma parte da instalação? Experimente seguir [nosso tutorial](https://youtu.be/SJmiWVmWhlg)!
+
+**Quando a esmola é demais, o santo desconfia:** Fique com um pé atrás ao encontrar os famosos "links diretos". Se o vídeo ou postagem tiver seção de comentários, o sujeito pode tentar fazer o download parecer seguro ao deletar comentários e ocultar contas que denunciam o golpe. Quer arriscar instalar um [vírus](https://pt.wikipedia.org/wiki/V%C3%ADrus_de_computador) no seu computador? Um [minerador de bitcoin](https://tecnoblog.net/responde/seu-computador-pode-estar-minerando-bitcoins-agora-saiba-impedir/)? [Spyware](https://pt.wikipedia.org/wiki/Spyware)? [Ransomware](https://pt.wikipedia.org/wiki/Ransomware)? É por sua conta e risco.
+
+Para saber se quem fez reupload da tradução é alguém que trabalhou nela ao longo de sua história, consulte os nomes nos [créditos](#créditos).
+
+### 📚 [Baixar uma versão antiga](https://github.com/teiarruma/deltarune-ptbr/releases)
+
+**O jogo atualizou e a tradução ainda não é compatível com a nova versão?** Ou seu computador é _Windows 7_? Clique no link e procure uma versão suportada da tradução. Ele te levará à nossa página de publicações. Atualmente, a última versão suportada do jogo é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/latest). Para _Windows 7_, é a [v1.07](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.07.0).
+
+Para fazer download de uma antiga versão da demo gratuita de _Deltarune_, recomendamos o projeto _Archiving DELTARUNE Ch1&2 versions_, o qual é mantido pela comunidade do jogo e se baseia no [Internet Archive](https://archive.org/). Como normalmente, substitua os arquivos do jogo pelos da respectiva versão da tradução.
 
 ### 📞 [Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
 
@@ -24,7 +50,9 @@ A permissão de entrada exige conversa para avaliar as habilidades da pessoa e, 
 
 Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter e no [nosso servidor](https://discord.gg/7DtZ7E4yYG) Discord para saber quando estivermos adicionando mais pessoas à tradução!
 
-## Créditos (Capítulo 2)
+## Créditos
+
+### Capítulo 2
 - **Nanaluki** - Tradução / Gráficos / Revisão / Coordenação;
 - **Andrepgfon** (Córtex) - Tradução / Programação / Revisão / Coordenação;
 - **Kalleu11** (Córtex) - Tradução / Programação / Gráficos / Revisão / Coordenação;
@@ -44,7 +72,7 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 
 (Agradecimentos Especiais: **Goularte**, **CassadorEterno** e **gomaproi**)
 
-## Créditos (Capítulo 1)
+### Capítulo 1
 - **gomaproi** - Tradução / Revisor / Colaborador;
 - **refri** - Tradução;
 - **BMatSantos** - Tradução / Gráficos / Revisor;
