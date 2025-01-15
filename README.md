@@ -17,7 +17,7 @@
     <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.07.0/DELTARUNEdemo_PTBR_Windows_1.07.0.zip">
         <img src="https://img.shields.io/badge/Windows_7-31cece" title="Baixar versão para Windows 7" />
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op2_MacOs64Bits_1.10.4.zip">
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op2_MacOs64Bits.zip">
         <img src="https://img.shields.io/badge/MacOS-green" title="Baixar versão para macOS 64 bits" />
     </a>
 </p>
