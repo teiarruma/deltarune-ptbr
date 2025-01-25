@@ -5,19 +5,19 @@
 
 ## Links
 
-### 💻 [Baixar Tradução (Capítulos 1 e 2)](https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op1_Windows_1.10.4.zip)
+### 💻 [Baixar Tradução (Capítulos 1 e 2)](https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op1_Windows.zip)
 
 <p dir="auto">
     <a href="#">
         <img src="https://img.shields.io/github/downloads/teiarruma/deltarune-ptbr/total.svg?label=Total%20de%20Downloads" alt="Valor total de downloads dos arquivos anexos às releases deste repositório" title="Contagem desde outubro de 2023" />
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op1_Windows_1.10.4.zip">
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op1_Windows.zip">
         <img src="https://img.shields.io/badge/Windows_10/11-0078d7" title="Baixar versão para Windows 10 ou 11"/>
     </a>
     <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.07.0/DELTARUNEdemo_PTBR_Windows_1.07.0.zip">
         <img src="https://img.shields.io/badge/Windows_7-31cece" title="Baixar versão para Windows 7" />
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op2_MacOs64Bits_1.10.4.zip">
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op2_MacOs64Bits.zip">
         <img src="https://img.shields.io/badge/MacOS-green" title="Baixar versão para macOS 64 bits" />
     </a>
 </p>
