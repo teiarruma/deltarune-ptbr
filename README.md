@@ -50,6 +50,16 @@ A permissão de entrada exige conversa para avaliar as habilidades da pessoa e, 
 
 Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter e no [nosso servidor](https://discord.gg/7DtZ7E4yYG) Discord para saber quando estivermos adicionando mais pessoas à tradução!
 
+### [Baixar versão beta do teste público de Nov. 2024](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.19.0)
+
+*Seção a ser removida quando isso não for mais uma versão beta do jogo.*
+
+Em novembro de 2024, foi lançada uma versão beta de Deltarune focada no uso da funcionalidade [`game_change`](https://manual.gamemaker.io/beta/en/GameMaker_Language/GML_Reference/General_Game_Control/game_change.htm) do  [GameMaker LTS 21/11/2024](https://releases.gamemaker.io/release-notes/2022/0#changes-in-the-original-3-release---ide-v20220383--runtime-v20220398-nov-21-2024). Essa função permite com que cada capítulo tenha seu próprio projeto e arquivos ao invés de todos os arquivos misturados em um só projeto como era até então. Isso facilitará o desenvolvimento e teste de futuros capítulos, como ao não ter que testar todos eles para se certificar de que uma mudança em um capítulo não tenha causado bug em outro.
+
+Espera-se que os futuros capítulos de Deltarune também utilizem essa função. Portanto, se quiser participar do teste público da nossa versão em português, segue o link de download para [Windows](https://github.com/teiarruma/deltarune-ptbr/releases/download/1.19.0/DELTARUNEdemo_PTBR_op1_Windows.zip). Utilizaremos essa versão na migração dos dois primeiros capítulos para a nova versão do jogo de quando os capítulos 3 e 4 saírem.
+
+Como de costume aqui no Deltarune, só disponibilizamos os arquivos da tradução. O jogo deve ser baixado separadamente na [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) através do menu de branches beta do jogo ou na página do jogo no [Itch.io](https://tobyfox.itch.io/deltarune)
+
 ## Créditos
 
 ### Capítulo 2
