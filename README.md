@@ -12,13 +12,13 @@
         <img src="https://img.shields.io/github/downloads/teiarruma/deltarune-ptbr/total.svg?label=Total%20de%20Downloads" alt="Valor total de downloads dos arquivos anexos às releases deste repositório" title="Contagem desde outubro de 2023" />
     </a>
     <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op1_Windows.zip">
-        <img src="https://img.shields.io/badge/Windows_10/11-0078d7" title="Baixar versão para Windows 10 ou 11"/>
+        <img src="https://img.shields.io/badge/Windows_Steam-0078d7" title="Baixar versão para Windows 10 ou 11 da Steam"/>
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.07.0/DELTARUNEdemo_PTBR_Windows_1.07.0.zip">
-        <img src="https://img.shields.io/badge/Windows_7-31cece" title="Baixar versão para Windows 7" />
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.19.0/DELTARUNEdemo_PTBR_op1_Windows.zip">
+        <img src="https://img.shields.io/badge/Windows_itch.io-31cece" title="Baixar versão para Windows 7, 10 ou 11 do itch.io" />
     </a>
     <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op2_MacOs64Bits.zip">
-        <img src="https://img.shields.io/badge/MacOS-green" title="Baixar versão para macOS 64 bits" />
+        <img src="https://img.shields.io/badge/macOS_Steam-green" title="Baixar versão para macOS 64 bits da Steam" />
     </a>
 </p>
 
