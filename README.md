@@ -11,14 +11,17 @@
     <a href="#">
         <img src="https://img.shields.io/github/downloads/teiarruma/deltarune-ptbr/total.svg?label=Total%20de%20Downloads" alt="Valor total de downloads dos arquivos anexos às releases deste repositório" title="Contagem desde outubro de 2023" />
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op1_Windows.zip">
-        <img src="https://img.shields.io/badge/Windows_Steam-0078d7" title="Baixar versão para Windows 10 ou 11 da Steam"/>
+      <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.01A.0/DELTARUNEpago_PTBR_op1_Windows.zip">
+        <img src="https://img.shields.io/badge/Windows_Steam_pago-0327c3" title="Baixar versão do jogo pago para Windows 10 ou 11 da Steam"/>
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.19.0/DELTARUNEdemo_PTBR_op1_Windows.zip">
-        <img src="https://img.shields.io/badge/Windows_itch.io-31cece" title="Baixar versão para Windows 7, 10 ou 11 do itch.io" />
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.6/DELTARUNEdemo_PTBR_op1_Windows.zip">
+        <img src="https://img.shields.io/badge/Windows_Steam_demo-0078d7" title="Baixar versão do jogo demo para Windows 10 ou 11 da Steam"/>
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op2_MacOs64Bits.zip">
-        <img src="https://img.shields.io/badge/macOS_Steam-green" title="Baixar versão para macOS 64 bits da Steam" />
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.19.1/DELTARUNEdemo_PTBR_op1_Windows.zip">
+        <img src="https://img.shields.io/badge/Windows_itch.io_demo-31cece" title="Baixar versão do jogo demo para Windows 7, 10 ou 11 do itch.io" />
+    </a>
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.6/DELTARUNEdemo_PTBR_op2_MacOs64Bits.zip">
+        <img src="https://img.shields.io/badge/macOS_Steam_demo-green" title="Baixar versão do jogo demo para macOS 64 bits da Steam" />
     </a>
 </p>
 
