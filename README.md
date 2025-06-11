@@ -5,7 +5,7 @@
 
 ## Links
 
-### 💻 [Baixar Tradução (Capítulos 1 e 2)](https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEdemo_PTBR_op1_Windows.zip)
+### 💻 Baixar Tradução (Capítulos 1 e 2)
 
 <p dir="auto">
     <a href="#">
