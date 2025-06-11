@@ -20,7 +20,7 @@
     <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.19.1/DELTARUNEdemo_PTBR_op1_Windows.zip">
         <img src="https://img.shields.io/badge/Windows_itch.io_demo-31cece" title="Baixar versão do jogo demo para Windows 7, 10 ou 11 do itch.io" />
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.6/DELTARUNEdemo_PTBR_op2_MacOs64Bits.zip">
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.5/DELTARUNEdemo_PTBR_op2_MacOs64Bits.zip">
         <img src="https://img.shields.io/badge/macOS_Steam_demo-green" title="Baixar versão do jogo demo para macOS 64 bits da Steam" />
     </a>
 </p>
