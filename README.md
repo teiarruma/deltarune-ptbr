@@ -47,6 +47,10 @@ Para fazer download de uma antiga versão da demo gratuita de _Deltarune_, recom
 
 **Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!** O servidor é gerenciado pela TEIARRUMA e não tem nenhuma relação com a CÓRTEX ou NANALUKI.
 
+### 🏳️‍🌈 [Pronomes e Gênero de Kris](assets/PRONOUNS.md)
+
+Siga o link para mais detalhes.
+
 ## Como contribuir
 
 Atualmente não estamos aceitando novos membros na equipe. Quando um novo capítulo for lançado, é possível que iremos liberar a entrada de novas pessoas na equipe pra trabalhar na tradução dele.
