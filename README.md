@@ -11,7 +11,7 @@
     <a href="#">
         <img src="https://img.shields.io/github/downloads/teiarruma/deltarune-ptbr/total.svg?label=Total%20de%20Downloads" alt="Valor total de downloads dos arquivos anexos às releases deste repositório" title="Contagem desde outubro de 2023" />
     </a>
-      <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.01A.1-pago/DELTARUNEpago_PTBR_op1_Windows.zip">
+      <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEpago_PTBR_op1_Windows.zip">
         <img src="https://img.shields.io/badge/Windows_Steam_pago-0327c3" title="Baixar versão do jogo pago para Windows 10 ou 11 da Steam"/>
     </a>
     <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.7-demo/DELTARUNEdemo_PTBR_op1_Windows.zip">
