@@ -118,10 +118,15 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 - **Lavember** - Tradução;
 - **MRPowerGamerBR** - Revisor / Colaborador;
 
-Com as Vozes de...
+### Com as Vozes de...
 
-- **Tanekoshima** - Jevil;
-- **Saerena** - Vocais de "Não Esqueça (Don't Forget)";
+- **Tanekoshima** - JEVIL
+- **Saerena** - Vocais de "Não Esqueça (Don't Forget)"
+- **Mandachuva** - SPAMTON
+- **Uão** - "Lutem" na Giga Rainha 
+- **matsu** - "Rodada 1, 2 e 3" na Giga Rainha
+- **Raposo** - TENNA
+- **BMag** - Cão Irritante entra na batalha
 
 (Agradecimentos Especiais: **Kyonamu** pela instrumental/mixagem e **Eric Holmes** por criar o primeiro servidor da Teiarruma)
 
