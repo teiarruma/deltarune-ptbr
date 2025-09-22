@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Tradução PT-BR de DELTARUNE</h1>
-  <p>Uma tradução brasileira feita pela <a href="https://twitter.com/teiarruma"><b>TEIARRUMA</b></a>, <a href="https://twitter.com/CortexTraducao" target="_blank"><b>CÓRTEX</b></a> e <b>NANALUKI</b>  de <a href="https://deltarune.com/"><b>DELTARUNE</b></a>, um jogo por Toby Fox. <br>
+  <p>Uma tradução brasileira feita pela <a href="https://twitter.com/teiarruma"><b>TEIARRUMA</b></a> de <a href="https://deltarune.com/"><b>DELTARUNE</b></a>, um jogo por Toby Fox. <br>
 </div>
 
 ## Links
