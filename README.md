@@ -5,7 +5,7 @@
 
 ## Links
 
-### 💻 Baixar Tradução (Capítulos 1, 2 e 3)
+### 💻 Baixar Tradução (Capítulos 1, 2, 3 e 4)
 
 <p dir="auto">
     <a href="#">
@@ -37,7 +37,7 @@ Para saber se quem fez reupload da tradução é alguém que trabalhou nela ao l
 
 ### 📚 [Baixar uma versão antiga](https://github.com/teiarruma/deltarune-ptbr/releases)
 
-*Versão paga do jogo: Capítulos 1, 2 e 3 traduzidos e Capítulo 4 em tradução*
+*Versão paga do jogo: Capítulos 1, 2, 3 e 4 traduzidos.*
 
 **O jogo atualizou e a tradução ainda não é compatível com a nova versão?** Ou seu computador é _Windows 7_? Clique no link e procure uma versão suportada da tradução. Ele te levará à nossa página de publicações. Atualmente, a última versão estável suportada do jogo demo baixado pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.10.8). Para _Windows 7_ baixado pelo [itch.io](https://tobyfox.itch.io/deltarune), é a [v1.19](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.19.2). Para o jogo pago pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/), é a [v1.04](https://github.com/teiarruma/deltarune-ptbr/releases/latest).
 
@@ -64,6 +64,40 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 *Seção a ser removida quando isso não for mais uma versão beta do jogo.*
 
 ## Créditos
+
+### Com as Vozes de...
+- **Tanekoshima** - JEVIL
+- **Saerena** - Vocais de "Não Esqueça (Don't Forget)"
+- **Mandachuva** - SPAMTON
+- **Uão** - "Lutem" na Giga Rainha 
+- **matsu** - "Rodada 1, 2 e 3" na Giga Rainha e Temmie
+- **Raposo** - TENNA
+- **BMag** - Cão Irritante entra na batalha
+- **PixelPietro** - JACKENSTEIN
+
+### Capítulo 4
+- **bMatSantos** - Direção / Tradução Principal / Revisão / Programação / Gráficos
+- **marCeL099** - Direção / Tradução Principal / Revisão / Programação Casual
+- **refri** - Tradução Casual / Testes
+- **EnzuhhhhBR** - Tradução Casual
+- **valterjogando** - Organização / Testes
+- **Odinsdottir** - Organização / Tradução Principal / Testes
+- **Eliandro** - Tradução Casual / Programação
+- **Dan** - Organização / Tradução Principal / Revisão / Gráficos Casual / Testes
+- **NicolasMcFly** - Organização / Tradução Principal / Revisão / Testes
+- **CosmicBlume** - Tradução Casual / Revisão
+- **Raposo** - Tradução Principal / Revisão
+- **Uão** - Gráficos
+- **HolidayGirl** - Tradução Principal / Testes
+- **AdokCaulifla** - Organização / Tradução Principal / Revisão / Testes
+- **Mandachuva** - Organização / Testes
+- **tiozindozap** - Tradução Casual
+- **AzureVentZX** - Gráficos / Testes
+- **GhostyThatOne** - Gráficos / Testes
+- **soulzinhovsf** - Tradução Casual
+- **pyromania** - Tradução Casual
+- **artfulstar** - Tradução Principal
+
 ### Capítulo 3
 - **bMatSantos** - Direção / Tradução Principal / Revisão / Programação / Gráficos 
 - **marCeL099** - Direção / Tradução Principal / Revisão / Programação
@@ -117,16 +151,6 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 - **Darko** - Revisor;
 - **Lavember** - Tradução;
 - **MRPowerGamerBR** - Revisor / Colaborador;
-
-### Com as Vozes de...
-
-- **Tanekoshima** - JEVIL
-- **Saerena** - Vocais de "Não Esqueça (Don't Forget)"
-- **Mandachuva** - SPAMTON
-- **Uão** - "Lutem" na Giga Rainha 
-- **matsu** - "Rodada 1, 2 e 3" na Giga Rainha
-- **Raposo** - TENNA
-- **BMag** - Cão Irritante entra na batalha
 
 (Agradecimentos Especiais: **Kyonamu** pela instrumental/mixagem e **Eric Holmes** por criar o primeiro servidor da Teiarruma)
 
