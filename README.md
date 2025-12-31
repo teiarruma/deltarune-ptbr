@@ -64,6 +64,17 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 *Seção a ser removida quando isso não for mais uma versão beta do jogo.*
 
 ## Créditos
+
+### Com as Vozes de...
+- **Tanekoshima** - JEVIL
+- **Saerena** - Vocais de "Não Esqueça (Don't Forget)"
+- **Mandachuva** - SPAMTON
+- **Uão** - "Lutem" na Giga Rainha 
+- **matsu** - "Rodada 1, 2 e 3" na Giga Rainha e Temmie
+- **Raposo** - TENNA
+- **BMag** - Cão Irritante entra na batalha
+- **PixelPietro** - JACKENSTEIN
+
 ### Capítulo 4
 - **bMatSantos** - Direção / Tradução Principal / Revisão / Programação / Gráficos
 - **marCeL099** - Direção / Tradução Principal / Revisão / Programação Casual
@@ -140,17 +151,6 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 - **Darko** - Revisor;
 - **Lavember** - Tradução;
 - **MRPowerGamerBR** - Revisor / Colaborador;
-
-### Com as Vozes de...
-
-- **Tanekoshima** - JEVIL
-- **Saerena** - Vocais de "Não Esqueça (Don't Forget)"
-- **Mandachuva** - SPAMTON
-- **Uão** - "Lutem" na Giga Rainha 
-- **matsu** - "Rodada 1, 2 e 3" na Giga Rainha e Temmie
-- **Raposo** - TENNA
-- **BMag** - Cão Irritante entra na batalha
-- **PixelPietro** - JACKENSTEIN
 
 (Agradecimentos Especiais: **Kyonamu** pela instrumental/mixagem e **Eric Holmes** por criar o primeiro servidor da Teiarruma)
 
