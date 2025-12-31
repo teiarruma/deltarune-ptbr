@@ -5,7 +5,7 @@
 
 ## Links
 
-### 💻 Baixar Tradução (Capítulos 1, 2 e 3)
+### 💻 Baixar Tradução (Capítulos 1, 2, 3 e 4)
 
 <p dir="auto">
     <a href="#">
@@ -37,7 +37,7 @@ Para saber se quem fez reupload da tradução é alguém que trabalhou nela ao l
 
 ### 📚 [Baixar uma versão antiga](https://github.com/teiarruma/deltarune-ptbr/releases)
 
-*Versão paga do jogo: Capítulos 1, 2 e 3 traduzidos e Capítulo 4 em tradução*
+*Versão paga do jogo: Capítulos 1, 2, 3 e 4 traduzidos.*
 
 **O jogo atualizou e a tradução ainda não é compatível com a nova versão?** Ou seu computador é _Windows 7_? Clique no link e procure uma versão suportada da tradução. Ele te levará à nossa página de publicações. Atualmente, a última versão estável suportada do jogo demo baixado pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.10.8). Para _Windows 7_ baixado pelo [itch.io](https://tobyfox.itch.io/deltarune), é a [v1.19](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.19.2). Para o jogo pago pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/), é a [v1.04](https://github.com/teiarruma/deltarune-ptbr/releases/latest).
 
