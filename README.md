@@ -64,6 +64,29 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 *Seção a ser removida quando isso não for mais uma versão beta do jogo.*
 
 ## Créditos
+### Capítulo 4
+- **bMatSantos** - Direção / Tradução Principal / Revisão / Programação / Gráficos
+- **marCeL099** - Direção / Tradução Principal / Revisão / Programação Casual
+- **refri** - Tradução Casual / Testes
+- **EnzuhhhhBR** - Tradução Casual
+- **valterjogando** - Organização / Testes
+- **Odinsdottir** - Organização / Tradução Principal / Testes
+- **Eliandro** - Tradução Casual / Programação
+- **Dan** - Organização / Tradução Principal / Revisão / Gráficos Casual / Testes
+- **NicolasMcFly** - Organização / Tradução Principal / Revisão / Testes
+- **CosmicBlume** - Tradução Casual / Revisão
+- **Raposo** - Tradução Principal / Revisão
+- **Uão** - Gráficos
+- **HolidayGirl** - Tradução Principal / Testes
+- **AdokCaulifla** - Organização / Tradução Principal / Revisão / Testes
+- **Mandachuva** - Organização / Testes
+- **tiozindozap** - Tradução Casual
+- **AzureVentZX** - Gráficos / Testes
+- **GhostyThatOne** - Gráficos / Testes
+- **soulzinhovsf** - Tradução Casual
+- **pyromania** - Tradução Casual
+- **artfulstar** - Tradução Principal
+
 ### Capítulo 3
 - **bMatSantos** - Direção / Tradução Principal / Revisão / Programação / Gráficos 
 - **marCeL099** - Direção / Tradução Principal / Revisão / Programação
