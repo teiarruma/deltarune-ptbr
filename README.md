@@ -14,7 +14,7 @@
       <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEpago_PTBR_op1_Windows.zip">
         <img src="https://img.shields.io/badge/Windows_Steam_pago-0327c3" title="Baixar versão do jogo pago para Windows 10 ou 11 da Steam"/>
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/demo-1.10.9/DELTARUNEdemo_PTBR_op1_Windows.zip">
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.9-demo/DELTARUNEdemo_PTBR_op1_Windows.zip">
         <img src="https://img.shields.io/badge/Windows_Steam_demo-0078d7" title="Baixar versão do jogo demo para Windows 10 ou 11 da Steam"/>
     </a>
     <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.19.2-demo/DELTARUNEdemo_PTBR_op1_Windows.zip">
