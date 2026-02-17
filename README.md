@@ -35,6 +35,16 @@ Não entendeu bem como instalar? Ficou perdido em alguma parte da instalação? 
 
 Para saber se quem fez reupload da tradução é alguém que trabalhou nela ao longo de sua história, consulte os nomes nos [créditos](#créditos).
 
+### 🏳️‍🌈 [Pronomes e Gênero de Kris](assets/PRONOUNS.md)
+
+Nas versões em **inglês** e em **japonês** **oficiais**, Kris tem **gênero não declarado**. Seu gênero **não é** **homem** ou **mulher**. Além disso, **não há evidências oficiais** de que a intenção é que com Kris seja de **interpretação do jogador**. Muito pelo contrário. O **Toby Fox**, autor do jogo, já [corrigiu um jogador que chamou de "ele"](https://youtu.be/rksOYId-cNA?t=3h29m). Portanto, canonicamente, seu **gênero** é **indefinido**. Assim, **nossa escolha** foi seguir **essa cartilha oficial** de **escrita neutra**.
+
+O que há é pronome neutro na versão inglesa, embora não haja na versão japonesa. Em **inglês**, **há** **histórico secular** de "they" como pronome neutro a **desconhecidos** e nas últimas décadas tem crescido e se tornado **consenso de escolha** e **ampla adoção** o uso como pronome neutro de uma pessoa **conhecida** entre LGBTs. Em **português**, **não há** **histórico nem de décadas**, **nem mesmo consenso de escolha** ou **ampla adoção** entre LGBTs no cenário atual. Há: elu, ile, el@, elx. A mais popular entre as opções é "elu", mas não tem ampla adoção. Por isso, **nossa escolha** foi **omissão completa de pronomes**.
+
+**Seam** está na mesma situação de gênero e pronomes que Kris.
+
+Siga o link para um [Perguntas e Respostas](assets/PRONOUNS.md) com outros detalhes.
+
 ### 📚 [Baixar uma versão antiga](https://github.com/teiarruma/deltarune-ptbr/releases)
 
 *Versão paga do jogo: Capítulos 1, 2, 3 e 4 traduzidos.*
@@ -46,10 +56,6 @@ Para fazer download de uma antiga versão da demo gratuita de _Deltarune_, recom
 ### 📞 [Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
 
 **Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!** O servidor é gerenciado pela TEIARRUMA e não tem nenhuma relação com a CÓRTEX ou NANALUKI.
-
-### 🏳️‍🌈 [Pronomes e Gênero de Kris](assets/PRONOUNS.md)
-
-Siga o link para mais detalhes.
 
 ## Como contribuir
 
