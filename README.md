@@ -35,6 +35,10 @@ Não entendeu bem como instalar? Ficou perdido em alguma parte da instalação? 
 
 Para saber se quem fez reupload da tradução é alguém que trabalhou nela ao longo de sua história, consulte os nomes nos [créditos](#créditos).
 
+### 📞 [Relato de Erros no Discord](https://discord.gg/7DtZ7E4yYG)
+
+**Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!** O servidor é gerenciado pela TEIARRUMA e não tem nenhuma relação com a CÓRTEX ou NANALUKI.
+
 ### 🏳️‍🌈 [Pronomes e Gênero de Kris](assets/PRONOUNS.md)
 
 Nas versões em **inglês** e em **japonês** **oficiais**, Kris tem **gênero não declarado**. Seu gênero **não é** **homem** ou **mulher**. Além disso, **não há evidências oficiais** de que a intenção é que com Kris seja de **interpretação do jogador**. Muito pelo contrário. O **Toby Fox**, autor do jogo, já [corrigiu um jogador que chamou de "ele"](https://youtu.be/rksOYId-cNA?t=3h29m). Portanto, canonicamente, seu **gênero** é **indefinido**. Assim, **nossa escolha** foi seguir **essa cartilha oficial** de **escrita neutra**.
@@ -52,10 +56,6 @@ Siga o link para um [Perguntas e Respostas](assets/PRONOUNS.md) com outros detal
 **O jogo atualizou e a tradução ainda não é compatível com a nova versão?** Ou seu computador é _Windows 7_? Clique no link e procure uma versão suportada da tradução. Ele te levará à nossa página de publicações. Atualmente, a última versão estável suportada do jogo demo baixado pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.10.9). Para _Windows 7_ baixado pelo [itch.io](https://tobyfox.itch.io/deltarune), é a [v1.19](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.19.2). Para o jogo pago pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/), é a [v1.04](https://github.com/teiarruma/deltarune-ptbr/releases/latest).
 
 Para fazer download de uma antiga versão da demo gratuita de _Deltarune_, recomendamos o projeto _Archiving DELTARUNE Ch1&2 versions_, o qual é mantido pela comunidade do jogo e se baseia no [Internet Archive](https://archive.org/). Como normalmente, substitua os arquivos do jogo pelos da respectiva versão da tradução.
-
-### 📞 [Entrar no nosso Discord](https://discord.gg/7DtZ7E4yYG)
-
-**Com dúvidas na instalação? Quer reportar erros? Entre no nosso servidor Discord!** O servidor é gerenciado pela TEIARRUMA e não tem nenhuma relação com a CÓRTEX ou NANALUKI.
 
 ## Como contribuir
 
