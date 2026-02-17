@@ -12,9 +12,9 @@ As pessoas que traduziram Undertale lidaram com essa questão de gênero ao dese
 
 Nós lidamos com essa questão de gênero no Deltarune e no Undertale Yellow ao escrever a frase de forma a não denotar gênero. Por exemplo: "A fúria ~~da~~ *de* Kris!" e "Onde está ~~o Kris~~ Kris?" (sem artigo), "Kris está ~~surpresa~~ se surpreendeu!", "Kris é ~~habilidoso~~ hábil!", "Pra onde vai, ~~estranho~~ anormal? (adjetivo).
 
-#### P: Vejo outros personagens chamarem Kris de "luziano" e de "humano". Quer dizer que Kris é homem?
+#### P: Vejo outros personagens chamarem Kris de "ser luziano" e de "ser humano". Quer dizer que Kris é homem?
 
-R: Conversamos e concluímos que somente "luziano" e "humano" são válidos usar para se referir a Kris (como quando Spamton chama Kris de Luziano em sua primeira aparição no jogo).
+R: Conversamos e concluímos que somente "ser luziano" e "ser humano" são válidos usar para se referir a Kris (como quando Spamton chama Kris de Luziano em sua primeira aparição no jogo). Já "humano" e "luziano" sem "ser" antes passou a ser considerado um erro desde meados de 2025.
 
 A razão para só esses serem válidos é por interpretarmos isso como designar o grupo ao qual Kris faz parte.
 
