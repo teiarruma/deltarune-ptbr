@@ -21,7 +21,10 @@
         <img src="https://img.shields.io/badge/Windows_itch.io_demo-31cece" title="Baixar versão do jogo demo para Windows 7, 10 ou 11 do itch.io" />
     </a>
     <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.5/DELTARUNEdemo_PTBR_op2_MacOs64Bits.zip">
-        <img src="https://img.shields.io/badge/macOS_Steam_demo-green" title="Baixar versão do jogo demo para macOS 64 bits da Steam" />
+        <img src="https://img.shields.io/badge/macOS_Steam_demo-FFA500" title="Baixar versão do jogo demo para macOS 64 bits da Steam" />
+    </a>
+    <a href="#android">
+        <img src="https://img.shields.io/badge/Android_Steam-a4c639" title="Como jogar no celular de forma honesta" />
     </a>
 </p>
 
@@ -56,6 +59,16 @@ Siga o link para um [Perguntas e Respostas](assets/PRONOUNS.md) com outros detal
 **O jogo atualizou e a tradução ainda não é compatível com a nova versão?** Ou seu computador é _Windows 7_? Clique no link e procure uma versão suportada da tradução. Ele te levará à nossa página de publicações. Atualmente, a última versão estável suportada do jogo demo baixado pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.10.9). Para _Windows 7_ baixado pelo [itch.io](https://tobyfox.itch.io/deltarune), é a [v1.19](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.19.2). Para o jogo pago pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/), é a [v1.04](https://github.com/teiarruma/deltarune-ptbr/releases/latest).
 
 Para fazer download de uma antiga versão da demo gratuita de _Deltarune_, recomendamos o projeto _Archiving DELTARUNE Ch1&2 versions_, o qual é mantido pela comunidade do jogo e se baseia no [Internet Archive](https://archive.org/). Como normalmente, substitua os arquivos do jogo pelos da respectiva versão da tradução.
+
+## Outros Ambientes
+
+### Android
+
+Primeiro, saiba que não vamos fazer pirataria do jogo de jeito nenhum. Além disso, não permitimos no nosso server Discord que sequer seja discutido formas de instalar sem comprar na Steam. É para que **malandros não aproveitem do nosso ambiente pra enviar arquivo ilegal ou com vírus** no privado de pessoas pedindo de forma inocente. Porém, segundo, **tem jeito de jogar no Android sem ter que piratear**.
+
+Há emuladores que deixam você, no seu celular Android, rodar jogos comprados na Steam. É o caso de: **Deltaquick**, **Portmaster**, **GameNative**. É com essas ferramentas que umas pessoas **de fora da equipe** fizeram tutoriais internet afora, inclusive no YouTube, de **como jogar nossa tradução no mobile**. Não vamos dar link pois não é algo nosso, mas você pode se informar melhor procurando o servidor oficial de cada um desses emuladores.
+
+Claro, **não é todo celular que vai conseguir rodar**, mas **é um caminho honesto**. E, claro, se tiver problemas em instalar, tem que ver com eles e não com nós, pois são eles que fizeram e que melhor entendem essas ferramentas.
 
 ## Como contribuir
 
