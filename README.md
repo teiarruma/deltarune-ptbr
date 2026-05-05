@@ -169,7 +169,7 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 - **CassadorEterno** - Tradução / Sprites / Porta-Voz;
 - **Darko** - Revisor;
 - **Lavember** - Tradução;
-- **MRPowerGamerBR** - Revisor / Colaborador;
+- **MrPowerGamerBR** - Revisor / Colaborador;
 
 (Agradecimentos Especiais: **Kyonamu** pela instrumental/mixagem e **Eric Holmes** por criar o primeiro servidor da Teiarruma)
 
