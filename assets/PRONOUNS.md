@@ -1,5 +1,7 @@
 ## Gênero de Kris, Perguntas e Respostas
 
+> Atenção! Texto desatualizado!
+
 Antes de tudo, destacamos que isso foi recortado e colado aqui no GitHub a partir de uma postagem do tradutor *MarCeLO99* no canal *dr-caracterização* no servidor da Teiarruma no Discord. Foi um conjunto de perguntas e respostas feito pelo tradutor em busca de esclarecer, da forma dele, os pontos mais frequentemente debatidos na comunidade de Deltarune e, inclusive, internamente na equipe a respeito dos pronomes e do gênero de Kris.
 
 ### Perguntas Comuns
