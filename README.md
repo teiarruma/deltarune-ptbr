@@ -14,10 +14,10 @@
       <a href="https://github.com/teiarruma/deltarune-ptbr/releases/latest/download/DELTARUNEpago_PTBR_op1_Windows.zip">
         <img src="https://img.shields.io/badge/Windows_Steam_pago-0327c3" title="Baixar versão do jogo pago para Windows 10 ou 11 da Steam"/>
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.9-demo/DELTARUNEdemo_PTBR_op1_Windows.zip">
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.11-demo/DELTARUNEdemo_PTBR_op1_Windows.zip">
         <img src="https://img.shields.io/badge/Windows_Steam_demo-0078d7" title="Baixar versão do jogo demo para Windows 10 ou 11 da Steam"/>
     </a>
-    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.19.2-demo/DELTARUNEdemo_PTBR_op1_Windows.zip">
+    <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.19.6-demo/DELTARUNEdemo_PTBR_op1_Windows.zip">
         <img src="https://img.shields.io/badge/Windows_itch.io_demo-31cece" title="Baixar versão do jogo demo para Windows 7, 10 ou 11 do itch.io" />
     </a>
     <a href="https://github.com/teiarruma/deltarune-ptbr/releases/download/1.10.5/DELTARUNEdemo_PTBR_op2_MacOs64Bits.zip">
@@ -58,7 +58,7 @@ Você pode [conferir aqui](https://bsky.app/profile/teiarruma.bsky.social/post/3
 
 *Versão paga do jogo: Capítulos 1, 2, 3 e 4 traduzidos.*
 
-**O jogo atualizou e a tradução ainda não é compatível com a nova versão?** Ou seu computador é _Windows 7_? Clique no link e procure uma versão suportada da tradução. Ele te levará à nossa página de publicações. Atualmente, a última versão estável suportada do jogo demo baixado pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.10.9). Para _Windows 7_ baixado pelo [itch.io](https://tobyfox.itch.io/deltarune), é a [v1.19](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.19.2). Para o jogo pago pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/), é a [v1.04](https://github.com/teiarruma/deltarune-ptbr/releases/latest).
+**O jogo atualizou e a tradução ainda não é compatível com a nova versão?** Ou seu computador é _Windows 7_? Clique no link e procure uma versão suportada da tradução. Ele te levará à nossa página de publicações. Atualmente, a última versão estável suportada do jogo demo baixado pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/) é a [v1.10](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.10.11). Para _Windows 7_ baixado pelo [itch.io](https://tobyfox.itch.io/deltarune), é a [v1.19](https://github.com/teiarruma/deltarune-ptbr/releases/tag/1.19.6). Para o jogo pago pela [Steam](https://store.steampowered.com/app/1671210/DELTARUNE/), é a [v1.04](https://github.com/teiarruma/deltarune-ptbr/releases/latest).
 
 Para fazer download de uma antiga versão da demo gratuita de _Deltarune_, recomendamos o projeto _Archiving DELTARUNE Ch1&2 versions_, o qual é mantido pela comunidade do jogo e se baseia no [Internet Archive](https://archive.org/). Como normalmente, substitua os arquivos do jogo pelos da respectiva versão da tradução.
 
