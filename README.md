@@ -95,6 +95,27 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 - **Raposo** - TENNA
 - **BMag** - Cão Irritante entra na batalha
 - **PixelPietro** - JACKENSTEIN
+- **Proto Operação** - FLOWERY
+
+### Capítulo 5
+- **bMatSantos** - Direção / Tradução / Revisão / Programação / Gráficos / Áudios / Adaptação Musical
+- **marCeL099** - Direção / Tradução / Revisão / Testes / Programação Casual
+- **refri** - Direção / Tradução / Testes / Gráficos
+- **NicolasMcFly** - Direção / Tradução / Revisão / Testes / Adaptação Musical
+- **AdokCaulifla** - Direção / Tradução / Revisão / Testes
+- **EnzuhhhhBR** - Tradução / Gráficos Casual
+- **valterjogando** - Organização / Testes
+- **Odinsdottir** - Tradução
+- **Eliandro** - Organização / Tradução Casual / Programação / Gráficos
+- **Dan** - Organização / Tradução / Revisão
+- **Raposo** - Tradução / Revisão
+- **Uão** - Gráficos / Adaptação Musical
+- **HolidayGirl** - Tradução
+- **Mandachuva** - Tradução
+- **AzureVentZX** - Organização / Tradução / Gráficos
+- **GhostyThatOne** - Gráficos / Testes
+
+(Agradecimentos Especiais: **DeltaESP**, **DeltaruneFR**, **matsu** e **Hakata**)
 
 ### Capítulo 4
 - **bMatSantos** - Direção / Tradução Principal / Revisão / Programação / Gráficos
@@ -120,17 +141,17 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 - **artfulstar** - Tradução Principal
 
 ### Capítulo 3
-- **bMatSantos** - Direção / Tradução Principal / Revisão / Programação / Gráficos 
+- **bMatSantos** - Direção / Tradução Principal / Revisão / Programação / Gráficos / Adaptação Musical
 - **marCeL099** - Direção / Tradução Principal / Revisão / Programação
 - **refri** - Direção / Tradução Principal / Gráficos / Testes
-- **EnzuhhhhBR** - Tradução Casual / Testes
+- **EnzuhhhhBR** - Tradução Casual / Testes / Adaptação Musical
 - **valterjogando** - Organização / Testes
 - **Odinsdottir** - Organização / Tradução Principal / Revisão / Testes
 - **Eliandro** - Tradução Casual / Programação
 - **Dan** - Organização / Tradução Principal / Revisão / Gráficos / Testes
 - **NicolasMcFly** - Organização / Tradução Principal / Revisão / Testes
 - **CosmicBlume** - Organização / Tradução Principal / Revisão / Testes
-- **Jinjo** - Tradução Casual
+- **Jinjo** - Tradução Casual / Adaptação Musical
 - **Raposo** - Dublagem / Tradução Principal / Revisão / Testes
 - **Uão** - Gráficos / Testes
 - **HolidayGirl** - Tradução Casual
@@ -164,7 +185,7 @@ Fique de olho aqui, na nossa [página](https://twitter.com/teiarruma) no Twitter
 ### Capítulo 1
 - **gomaproi** - Tradução / Revisor / Colaborador;
 - **refri** - Tradução;
-- **BMatSantos** - Tradução / Gráficos / Revisor;
+- **BMatSantos** - Tradução / Gráficos / Revisor / Adaptação Musical;
 - **Detoria** - Tradução / Revisor;
 - **Marcel099** - Tradução / Revisor / Colaborador;
 - **zKinG0D_** - Tradução / Revisor;
